@@ -1,0 +1,40 @@
+name: Daily_Dubai_Price_Tracker
+
+on:
+  schedule:
+    # 7:00 AM Dubai Time (3:00 AM UTC)
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Price Scraper
+        env:
+          SCRAPINGANT_API_KEY: ${{ secrets.SCRAPINGANT_API_KEY }}
+          CAREEM_TOKEN: ${{ secrets.CAREEM_TOKEN }}
+        run: python scraper.py
+
+      - name: Commit and Push Updated Prices
+        run: |
+          git config --local user.name "Dubai-Tracker-Bot"
+          git config --local user.email "actions@github.com"
+          git add prices.json
+          git commit -m "Daily Price Update: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+          git push
