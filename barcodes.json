@@ -1,0 +1,30 @@
+[
+  {
+    "barcode": "5056141881928",
+    "name": "Product 1"
+  },
+  {
+    "barcode": "6291101714444",
+    "name": "Product 2"
+  },
+  {
+    "barcode": "6291101713676",
+    "name": "Product 3"
+  },
+  {
+    "barcode": "6291101712006",
+    "name": "Product 4"
+  },
+  {
+    "barcode": "5056141881935",
+    "name": "Product 5"
+  },
+  {
+    "barcode": "6291101716608",
+    "name": "Product 6"
+  },
+  {
+    "barcode": "6291101710002",
+    "name": "Product 7"
+  }
+]

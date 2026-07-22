@@ -1,0 +1,271 @@
+{
+  "last_updated": "2026-07-15 12:00 PM Dubai Time (Mock Data)",
+  "log": [
+    "[12:00:00] Starting price comparison scraper...",
+    "[12:00:02] ScraperAnt API verified successfully.",
+    "[12:00:05] Central Dubai location set: Lat 25.2048, Lon 55.2708 (Downtown Dubai)",
+    "[12:00:10] Scanning 7 barcodes...",
+    "[12:00:12] Product 1: Amazon=AED 12.50 (List: AED 15.00), Noon=AED 12.00, Noon Minutes=AED 13.00, Talabat=AED 14.00, Careem=AED 12.75",
+    "[12:00:15] Product 2: Amazon=AED 45.00 (List: None), Noon=AED 48.00 (List: AED 55.00), Noon Minutes=Not Stocked, Talabat=AED 46.50, Careem=Not Stocked",
+    "[12:00:18] Product 3: Amazon=AED 8.25, Noon=AED 8.50, Noon Minutes=AED 8.50, Talabat=AED 9.00 (List: AED 10.00), Careem=AED 8.50",
+    "[12:00:22] Product 4: Amazon=AED 115.00 (List: AED 130.00), Noon=Not Found, Noon Minutes=Not Found, Talabat=Not Found, Careem=Not Found",
+    "[12:00:25] Product 5: Amazon=AED 19.50, Noon=AED 19.00, Noon Minutes=AED 19.00, Talabat=AED 21.00, Careem=AED 20.00",
+    "[12:00:28] Product 6: Amazon=AED 3.75, Noon=AED 3.75, Noon Minutes=AED 3.75, Talabat=AED 4.25 (List: AED 4.50), Careem=AED 4.00",
+    "[12:00:32] Product 7: Amazon=AED 24.00, Noon=AED 22.50, Noon Minutes=AED 22.50, Talabat=AED 25.00, Careem=Token Missing",
+    "[12:00:35] Scraper successfully completed in 35 seconds."
+  ],
+  "products": [
+    {
+      "barcode": "5056141881928",
+      "name": "Product 1",
+      "prices": {
+        "amazon": {
+          "rsp": "12.50",
+          "list_price": "15.00",
+          "url": "https://www.amazon.ae/s?k=5056141881928",
+          "status": "Success"
+        },
+        "noon": {
+          "rsp": "12.00",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=5056141881928",
+          "status": "Success"
+        },
+        "noon_minutes": {
+          "rsp": "13.00",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=5056141881928",
+          "status": "Success"
+        },
+        "careem": {
+          "rsp": "12.75",
+          "list_price": null,
+          "url": "https://www.careem.com",
+          "status": "Success"
+        },
+        "talabat": {
+          "rsp": "14.00",
+          "list_price": null,
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=5056141881928",
+          "status": "Success"
+        }
+      }
+    },
+    {
+      "barcode": "6291101714444",
+      "name": "Product 2",
+      "prices": {
+        "amazon": {
+          "rsp": "45.00",
+          "list_price": null,
+          "url": "https://www.amazon.ae/s?k=6291101714444",
+          "status": "Success"
+        },
+        "noon": {
+          "rsp": "48.00",
+          "list_price": "55.00",
+          "url": "https://www.noon.com/uae-en/search/?q=6291101714444",
+          "status": "Success"
+        },
+        "noon_minutes": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101714444",
+          "status": "Not Stocked"
+        },
+        "careem": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.careem.com",
+          "status": "Not Stocked"
+        },
+        "talabat": {
+          "rsp": "46.50",
+          "list_price": null,
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101714444",
+          "status": "Success"
+        }
+      }
+    },
+    {
+      "barcode": "6291101713676",
+      "name": "Product 3",
+      "prices": {
+        "amazon": {
+          "rsp": "8.25",
+          "list_price": null,
+          "url": "https://www.amazon.ae/s?k=6291101713676",
+          "status": "Success"
+        },
+        "noon": {
+          "rsp": "8.50",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101713676",
+          "status": "Success"
+        },
+        "noon_minutes": {
+          "rsp": "8.50",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101713676",
+          "status": "Success"
+        },
+        "careem": {
+          "rsp": "8.50",
+          "list_price": null,
+          "url": "https://www.careem.com",
+          "status": "Success"
+        },
+        "talabat": {
+          "rsp": "9.00",
+          "list_price": "10.00",
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101713676",
+          "status": "Success"
+        }
+      }
+    },
+    {
+      "barcode": "6291101712006",
+      "name": "Product 4",
+      "prices": {
+        "amazon": {
+          "rsp": "115.00",
+          "list_price": "130.00",
+          "url": "https://www.amazon.ae/s?k=6291101712006",
+          "status": "Success"
+        },
+        "noon": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101712006",
+          "status": "Not Found"
+        },
+        "noon_minutes": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101712006",
+          "status": "Not Found"
+        },
+        "careem": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.careem.com",
+          "status": "Not Found"
+        },
+        "talabat": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101712006",
+          "status": "Not Found"
+        }
+      }
+    },
+    {
+      "barcode": "5056141881935",
+      "name": "Product 5",
+      "prices": {
+        "amazon": {
+          "rsp": "19.50",
+          "list_price": null,
+          "url": "https://www.amazon.ae/s?k=5056141881935",
+          "status": "Success"
+        },
+        "noon": {
+          "rsp": "19.00",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
+          "status": "Success"
+        },
+        "noon_minutes": {
+          "rsp": "19.00",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
+          "status": "Success"
+        },
+        "careem": {
+          "rsp": "20.00",
+          "list_price": null,
+          "url": "https://www.careem.com",
+          "status": "Success"
+        },
+        "talabat": {
+          "rsp": "21.00",
+          "list_price": null,
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=5056141881935",
+          "status": "Success"
+        }
+      }
+    },
+    {
+      "barcode": "6291101716608",
+      "name": "Product 6",
+      "prices": {
+        "amazon": {
+          "rsp": "3.75",
+          "list_price": null,
+          "url": "https://www.amazon.ae/s?k=6291101716608",
+          "status": "Success"
+        },
+        "noon": {
+          "rsp": "3.75",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101716608",
+          "status": "Success"
+        },
+        "noon_minutes": {
+          "rsp": "3.75",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101716608",
+          "status": "Success"
+        },
+        "careem": {
+          "rsp": "4.00",
+          "list_price": null,
+          "url": "https://www.careem.com",
+          "status": "Success"
+        },
+        "talabat": {
+          "rsp": "4.25",
+          "list_price": "4.50",
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101716608",
+          "status": "Success"
+        }
+      }
+    },
+    {
+      "barcode": "6291101710002",
+      "name": "Product 7",
+      "prices": {
+        "amazon": {
+          "rsp": "24.00",
+          "list_price": null,
+          "url": "https://www.amazon.ae/s?k=6291101710002",
+          "status": "Success"
+        },
+        "noon": {
+          "rsp": "22.50",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101710002",
+          "status": "Success"
+        },
+        "noon_minutes": {
+          "rsp": "22.50",
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101710002",
+          "status": "Success"
+        },
+        "careem": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.careem.com",
+          "status": "Token Missing"
+        },
+        "talabat": {
+          "rsp": "25.00",
+          "list_price": null,
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101710002",
+          "status": "Success"
+        }
+      }
+    }
+  ]
+}

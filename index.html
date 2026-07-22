@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dubai Price Comparison Hub</title>
+    <!-- Google Fonts: Outfit & Space Grotesk for a premium, modern feel -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="glass-bg"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <div class="logo-area">
+                <span class="logo-emoji">🔍</span>
+                <h1>Dubai Price Comparison</h1>
+            </div>
+            <div class="meta-badge">
+                <span class="pulse-dot"></span>
+                <span id="last-updated-text">Loading last update...</span>
+            </div>
+        </header>
+
+        <!-- Controls Section -->
+        <section class="controls-card">
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="search-input" placeholder="Search by product name or barcode...">
+            </div>
+            <div class="button-group">
+                <button id="export-btn" class="btn btn-secondary">
+                    <span class="btn-icon">📥</span> Export CSV
+                </button>
+                <button id="guide-trigger-btn" class="btn btn-primary">
+                    <span class="btn-icon">💡</span> Setup Instructions
+                </button>
+            </div>
+        </section>
+
+        <!-- Main Price Grid/Table -->
+        <main class="table-container">
+            <table id="price-table">
+                <thead>
+                    <tr>
+                        <th class="col-product">Product Description</th>
+                        <th class="col-barcode">Barcode</th>
+                        <th class="col-retailer">Amazon.ae</th>
+                        <th class="col-retailer">Noon</th>
+                        <th class="col-retailer">Noon Minutes</th>
+                        <th class="col-retailer">Careem Quik</th>
+                        <th class="col-retailer">Talabat</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Dynamic Rows Will Load Here -->
+                    <tr class="loading-row">
+                        <td colspan="7">
+                            <div class="loading-state">
+                                <div class="spinner"></div>
+                                <p>Fetching latest price comparisons...</p>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </main>
+
+        <!-- Dynamic Console Log (Accordion) -->
+        <section class="log-section">
+            <div class="log-header" id="log-toggle">
+                <h3>📊 Scraper Activity Log</h3>
+                <span class="toggle-arrow">▼</span>
+            </div>
+            <div class="log-content collapsed" id="log-container">
+                <div class="terminal-window">
+                    <div class="terminal-header">
+                        <span class="term-dot dot-red"></span>
+                        <span class="term-dot dot-yellow"></span>
+                        <span class="term-dot dot-green"></span>
+                        <span class="term-title">daily_scraper_output.log</span>
+                    </div>
+                    <pre class="terminal-body" id="log-body">Waiting for data...</pre>
+                </div>
+            </div>
+        </section>
+
+        <!-- Setup Instructions Modal / Section -->
+        <section class="guide-modal hidden" id="guide-modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2>🚀 How to Setup Daily Scraping</h2>
+                    <button class="close-btn" id="close-guide-btn">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="guide-tabs">
+                        <button class="tab-btn active" data-tab="tab-scraperant">1. ScraperAnt Key (Free)</button>
+                        <button class="tab-btn" data-tab="tab-careem">2. Careem VIP Pass</button>
+                        <button class="tab-btn" data-tab="tab-github">3. Launch Website</button>
+                    </div>
+
+                    <!-- ScraperAnt Tab -->
+                    <div class="tab-content active" id="tab-scraperant">
+                        <h3>🔑 Get Your Free ScraperAnt API Key</h3>
+                        <ol>
+                            <li>Go to <a href="https://scrapingant.com" target="_blank">ScrapingAnt.com</a> and sign up for a <strong>free account</strong>.</li>
+                            <li>Once registered, go to your <strong>Dashboard</strong>.</li>
+                            <li>Locate your <strong>API Key</strong> (a long string of characters). Copy it.</li>
+                            <li>Open your GitHub Repository settings, go to <strong>Secrets and variables > Actions</strong>.</li>
+                            <li>Create a new repository secret named: <code>SCRAPINGANT_API_KEY</code> and paste your key.</li>
+                        </ol>
+                    </div>
+
+                    <!-- Careem Tab -->
+                    <div class="tab-content" id="tab-careem">
+                        <h3>🔑 Copy Careem Session Token</h3>
+                        <p>Because Careem requires a mobile verification code, you need to copy your login token once from your web browser:</p>
+                        <ol>
+                            <li>Open a computer web browser (Chrome or Edge) and go to <a href="https://www.careem.com" target="_blank">Careem.com</a>.</li>
+                            <li>Log in with your phone number and enter the SMS verification code.</li>
+                            <li>Press <strong>F12</strong> (or right-click anywhere and select <strong>Inspect</strong>) to open Developer Tools.</li>
+                            <li>Click on the <strong>Application</strong> tab (in Chrome) or <strong>Storage</strong> tab (in Firefox).</li>
+                            <li>In the left sidebar, expand <strong>Local Storage</strong> and click on <code>https://www.careem.com</code>.</li>
+                            <li>Look for the item named <code>token</code> or <code>authToken</code>. Copy the long value next to it.</li>
+                            <li>Add this value as a GitHub Repository secret named: <code>CAREEM_TOKEN</code>.</li>
+                        </ol>
+                    </div>
+
+                    <!-- GitHub Tab -->
+                    <div class="tab-content" id="tab-github">
+                        <h3>🌐 Enable GitHub Pages (To share your link)</h3>
+                        <ol>
+                            <li>Push all these code files to a new repository on your GitHub account.</li>
+                            <li>Go to your repository's <strong>Settings > Pages</strong>.</li>
+                            <li>Under "Build and deployment", set the source to <strong>Deploy from a branch</strong>.</li>
+                            <li>Select the <strong>main</strong> branch and click <strong>Save</strong>.</li>
+                            <li>Wait 1 minute, and GitHub will provide you a link like: <code>https://yourusername.github.io/your-repository</code>. Copy and share it!</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Script Import -->
+    <script src="app.js"></script>
+</body>
+</html>
