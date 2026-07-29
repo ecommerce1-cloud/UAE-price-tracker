@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     } else if (status.includes("token missing") || status.includes("missing")) {
                         td.innerHTML = `<span class="badge badge-not-found" title="Configure session token in secrets">Token Missing</span>`;
                     } else {
-                        td.innerHTML = `<span class="badge badge-badge-error" title="${platData.status || 'Scraping error'}">Error</span>`;
+                        td.innerHTML = '<span class="badge badge-error" title="${platData.status || \'Scraping error\'}">Error</span>';
                     }
                 }
                 
