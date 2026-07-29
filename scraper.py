@@ -40,7 +40,7 @@ def query_scraperant(target_url, cookies=None):
     if not API_KEY:
         return None, "ScraperAnt API Key missing. Please set the SCRAPINGANT_API_KEY secret."
     
-    api_url = "https://api.scraperant.com/v2/general"
+    api_url = "https://api.scrapingant.com/v2/general"
     params = {
         "url": target_url,
         "x-api-key": API_KEY,
