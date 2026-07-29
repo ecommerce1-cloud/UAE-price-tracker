@@ -1,85 +1,86 @@
 {
-  "last_updated": "2026-07-29 05:47 AM Dubai Time",
+  "last_updated": "2026-07-29 07:01 PM Dubai Time",
   "log": [
-    "[05:44:19] Starting Daily Price Comparison Scraper...",
-    "[05:44:19] Loaded 7 products to track.",
-    "[05:44:19] --------------------------------------------------",
-    "[05:44:19] Processing Product: Product 1 (Barcode: 5056141881928)",
-    "[05:44:19] Amazon: Searching barcode 5056141881928...",
-    "[05:44:19] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:44:24] Noon & Noon Minutes: Searching barcode 5056141881928...",
-    "[05:44:24] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:44:29] Talabat: Searching barcode 5056141881928...",
-    "[05:44:29] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:44:34] Careem Quik: Searching barcode 5056141881928...",
-    "[05:44:34] Careem Error: Session Token is missing. Skipping.",
-    "[05:44:34] Finished product: Product 1",
-    "[05:44:44] --------------------------------------------------",
-    "[05:44:44] Processing Product: Product 2 (Barcode: 6291101714444)",
-    "[05:44:44] Amazon: Searching barcode 6291101714444...",
-    "[05:44:44] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:44:49] Noon & Noon Minutes: Searching barcode 6291101714444...",
-    "[05:44:49] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:44:54] Talabat: Searching barcode 6291101714444...",
-    "[05:44:54] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:44:59] Careem Quik: Searching barcode 6291101714444...",
-    "[05:44:59] Careem Error: Session Token is missing. Skipping.",
-    "[05:44:59] Finished product: Product 2",
-    "[05:45:09] --------------------------------------------------",
-    "[05:45:09] Processing Product: Product 3 (Barcode: 6291101713676)",
-    "[05:45:09] Amazon: Searching barcode 6291101713676...",
-    "[05:45:09] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:45:14] Noon & Noon Minutes: Searching barcode 6291101713676...",
-    "[05:45:14] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:45:19] Talabat: Searching barcode 6291101713676...",
-    "[05:45:20] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:45:25] Careem Quik: Searching barcode 6291101713676...",
-    "[05:45:25] Careem Error: Session Token is missing. Skipping.",
-    "[05:45:25] Finished product: Product 3",
-    "[05:45:35] --------------------------------------------------",
-    "[05:45:35] Processing Product: Product 4 (Barcode: 6291101712006)",
-    "[05:45:35] Amazon: Searching barcode 6291101712006...",
-    "[05:45:35] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:45:40] Noon & Noon Minutes: Searching barcode 6291101712006...",
-    "[05:45:40] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:45:45] Talabat: Searching barcode 6291101712006...",
-    "[05:45:45] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:45:50] Careem Quik: Searching barcode 6291101712006...",
-    "[05:45:50] Careem Error: Session Token is missing. Skipping.",
-    "[05:45:50] Finished product: Product 4",
-    "[05:46:00] --------------------------------------------------",
-    "[05:46:00] Processing Product: Product 5 (Barcode: 5056141881935)",
-    "[05:46:00] Amazon: Searching barcode 5056141881935...",
-    "[05:46:00] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:46:05] Noon & Noon Minutes: Searching barcode 5056141881935...",
-    "[05:46:05] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:46:10] Talabat: Searching barcode 5056141881935...",
-    "[05:46:10] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:46:15] Careem Quik: Searching barcode 5056141881935...",
-    "[05:46:15] Careem Error: Session Token is missing. Skipping.",
-    "[05:46:15] Finished product: Product 5",
-    "[05:46:25] --------------------------------------------------",
-    "[05:46:25] Processing Product: Product 6 (Barcode: 6291101716608)",
-    "[05:46:25] Amazon: Searching barcode 6291101716608...",
-    "[05:46:25] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:46:30] Noon & Noon Minutes: Searching barcode 6291101716608...",
-    "[05:46:30] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:46:35] Talabat: Searching barcode 6291101716608...",
-    "[05:46:35] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:46:40] Careem Quik: Searching barcode 6291101716608...",
-    "[05:46:40] Careem Error: Session Token is missing. Skipping.",
-    "[05:46:40] Finished product: Product 6",
-    "[05:46:50] --------------------------------------------------",
-    "[05:46:50] Processing Product: Product 7 (Barcode: 6291101710002)",
-    "[05:46:50] Amazon: Searching barcode 6291101710002...",
-    "[05:46:50] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:46:55] Noon & Noon Minutes: Searching barcode 6291101710002...",
-    "[05:46:55] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:47:00] Talabat: Searching barcode 6291101710002...",
-    "[05:47:00] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))",
-    "[05:47:05] Careem Quik: Searching barcode 6291101710002...",
-    "[05:47:05] Careem Error: Session Token is missing. Skipping.",
-    "[05:47:05] Finished product: Product 7"
+    "[18:51:58] Starting Daily Price Comparison Scraper...",
+    "[18:51:58] Loaded 7 products to track.",
+    "[18:51:58] --------------------------------------------------",
+    "[18:51:58] Processing Product: Product 1 (Barcode: 5056141881928)",
+    "[18:51:58] Amazon: Searching barcode 5056141881928...",
+    "[18:52:12] Amazon Success: RSP=None, List=None",
+    "[18:52:17] Noon & Noon Minutes: Searching barcode 5056141881928...",
+    "[18:52:31] Noon: Product not found in search grid.",
+    "[18:52:36] Talabat: Searching barcode 5056141881928...",
+    "[18:53:17] Talabat Success: RSP=None, List=None",
+    "[18:53:22] Careem Quik: Searching barcode 5056141881928...",
+    "[18:53:22] Careem Error: Session Token is missing. Skipping.",
+    "[18:53:22] Finished product: Product 1",
+    "[18:53:32] --------------------------------------------------",
+    "[18:53:32] Processing Product: Product 2 (Barcode: 6291101714444)",
+    "[18:53:32] Amazon: Searching barcode 6291101714444...",
+    "[18:53:50] Amazon Success: RSP=18.00, List=31.90",
+    "[18:53:55] Noon & Noon Minutes: Searching barcode 6291101714444...",
+    "[18:54:13] Noon Success: RSP=None, List=30.00",
+    "[18:54:13] Noon Minutes Success: RSP=None, Status=Not Stocked",
+    "[18:54:18] Talabat: Searching barcode 6291101714444...",
+    "[18:54:35] Talabat Success: RSP=None, List=None",
+    "[18:54:40] Careem Quik: Searching barcode 6291101714444...",
+    "[18:54:40] Careem Error: Session Token is missing. Skipping.",
+    "[18:54:40] Finished product: Product 2",
+    "[18:54:50] --------------------------------------------------",
+    "[18:54:50] Processing Product: Product 3 (Barcode: 6291101713676)",
+    "[18:54:50] Amazon: Searching barcode 6291101713676...",
+    "[18:55:06] Amazon: Product not found.",
+    "[18:55:11] Noon & Noon Minutes: Searching barcode 6291101713676...",
+    "[18:55:24] Noon Error: HTTP Error 404",
+    "[18:55:29] Talabat: Searching barcode 6291101713676...",
+    "[18:55:50] Talabat Success: RSP=None, List=None",
+    "[18:55:55] Careem Quik: Searching barcode 6291101713676...",
+    "[18:55:55] Careem Error: Session Token is missing. Skipping.",
+    "[18:55:55] Finished product: Product 3",
+    "[18:56:05] --------------------------------------------------",
+    "[18:56:05] Processing Product: Product 4 (Barcode: 6291101712006)",
+    "[18:56:05] Amazon: Searching barcode 6291101712006...",
+    "[18:56:18] Amazon Error: HTTP Error 404",
+    "[18:56:23] Noon & Noon Minutes: Searching barcode 6291101712006...",
+    "[18:56:37] Noon: Product not found in search grid.",
+    "[18:56:42] Talabat: Searching barcode 6291101712006...",
+    "[18:57:01] Talabat Success: RSP=None, List=None",
+    "[18:57:06] Careem Quik: Searching barcode 6291101712006...",
+    "[18:57:06] Careem Error: Session Token is missing. Skipping.",
+    "[18:57:06] Finished product: Product 4",
+    "[18:57:16] --------------------------------------------------",
+    "[18:57:16] Processing Product: Product 5 (Barcode: 5056141881935)",
+    "[18:57:16] Amazon: Searching barcode 5056141881935...",
+    "[18:57:34] Amazon Success: RSP=34.00, List=37.00",
+    "[18:57:39] Noon & Noon Minutes: Searching barcode 5056141881935...",
+    "[18:58:00] Noon: Product not found in search grid.",
+    "[18:58:05] Talabat: Searching barcode 5056141881935...",
+    "[18:58:22] Talabat Success: RSP=None, List=None",
+    "[18:58:27] Careem Quik: Searching barcode 5056141881935...",
+    "[18:58:27] Careem Error: Session Token is missing. Skipping.",
+    "[18:58:27] Finished product: Product 5",
+    "[18:58:37] --------------------------------------------------",
+    "[18:58:37] Processing Product: Product 6 (Barcode: 6291101716608)",
+    "[18:58:37] Amazon: Searching barcode 6291101716608...",
+    "[18:58:49] Amazon Error: HTTP Error 404",
+    "[18:58:54] Noon & Noon Minutes: Searching barcode 6291101716608...",
+    "[18:59:16] Noon: Product not found in search grid.",
+    "[18:59:21] Talabat: Searching barcode 6291101716608...",
+    "[18:59:40] Talabat Success: RSP=None, List=None",
+    "[18:59:45] Careem Quik: Searching barcode 6291101716608...",
+    "[18:59:45] Careem Error: Session Token is missing. Skipping.",
+    "[18:59:45] Finished product: Product 6",
+    "[18:59:55] --------------------------------------------------",
+    "[18:59:55] Processing Product: Product 7 (Barcode: 6291101710002)",
+    "[18:59:55] Amazon: Searching barcode 6291101710002...",
+    "[19:00:16] Amazon Success: RSP=11.00, List=None",
+    "[19:00:21] Noon & Noon Minutes: Searching barcode 6291101710002...",
+    "[19:00:34] Noon Error: HTTP Error 404",
+    "[19:00:39] Talabat: Searching barcode 6291101710002...",
+    "[19:00:59] Talabat Success: RSP=None, List=None",
+    "[19:01:04] Careem Quik: Searching barcode 6291101710002...",
+    "[19:01:04] Careem Error: Session Token is missing. Skipping.",
+    "[19:01:04] Finished product: Product 7"
   ],
   "products": [
     {
@@ -89,26 +90,26 @@
         "amazon": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.amazon.ae/s?k=5056141881928",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.amazon.ae/HOTPACK-Bio-Degradable-Disposable-Garbage-Gallons/dp/B092BTLHZX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Ouu9Gls9s58Xy4xWD8XIbg.Dtn9_K52ySLEZK9-soF9efFup6JfZPJYonEMMhYzbPo&dib_tag=se&keywords=5056141881928&qid=1785351123&sr=8-1",
+          "status": "Success"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=5056141881928",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=5056141881928",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/ae/en/grocery/search?q=5056141881928",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.talabat.com/uae/contact-us",
+          "status": "Success"
         },
         "careem": {
           "rsp": null,
@@ -123,28 +124,28 @@
       "name": "Product 2",
       "prices": {
         "amazon": {
-          "rsp": null,
-          "list_price": null,
-          "url": "https://www.amazon.ae/s?k=6291101714444",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "rsp": "18.00",
+          "list_price": "31.90",
+          "url": "https://www.amazon.ae/Hotpack-Garbage-Large-Gallon-110cm/dp/B07PDZSR8R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3khIQ__h4sYbmwiR1UKYiQ.0VQJxNp2EV1ENkCXPefRIhRvKSwJT9BniR4Okdy0-Mc&dib_tag=se&keywords=6291101714444&qid=1785351215&sr=8-1",
+          "status": "Success"
         },
         "noon": {
           "rsp": null,
-          "list_price": null,
-          "url": "https://www.noon.com/uae-en/search/?q=6291101714444",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "list_price": "30.00",
+          "url": "https://www.noon.com/uae-en/hotpack-perforated-sofra-roll-table-sheet-100-cm-x-100-cm-pack-of-6-6-units-multi-color-assorted-100x100cm/N23162672A/p/?o=eda1c8698017c08c",
+          "status": "Success"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101714444",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Stocked"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101714444",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.talabat.com/uae/contact-us",
+          "status": "Success"
         },
         "careem": {
           "rsp": null,
@@ -162,25 +163,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101713676",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101713676",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "HTTP Error 404"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101713676",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "HTTP Error 404"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101713676",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.talabat.com/uae/contact-us",
+          "status": "Success"
         },
         "careem": {
           "rsp": null,
@@ -198,25 +199,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101712006",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "HTTP Error 404"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101712006",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101712006",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101712006",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.talabat.com/uae/contact-us",
+          "status": "Success"
         },
         "careem": {
           "rsp": null,
@@ -231,28 +232,28 @@
       "name": "Product 5",
       "prices": {
         "amazon": {
-          "rsp": null,
-          "list_price": null,
-          "url": "https://www.amazon.ae/s?k=5056141881935",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "rsp": "34.00",
+          "list_price": "37.00",
+          "url": "https://www.amazon.ae/Hotpack-Disposable-Bio-Degradable-Dustbin-45x55cm/dp/B092C3N25Z/ref=sr_1_1_ae_f3_0o_yalla?dib=eyJ2IjoiMSJ9.bpByYicgXCeoAT8KSl2P-g.RfwklOgQzuKLZzwpTF7ac_Ag6_Y5LCKYCX5XYgJPZ-I&dib_tag=se&keywords=5056141881935&qid=1785351444&sr=8-1",
+          "status": "Success"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/ae/en/grocery/search?q=5056141881935",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.talabat.com/uae/contact-us",
+          "status": "Success"
         },
         "careem": {
           "rsp": null,
@@ -270,25 +271,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101716608",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "HTTP Error 404"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101716608",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101716608",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "Not Found"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101716608",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.talabat.com/uae/contact-us",
+          "status": "Success"
         },
         "careem": {
           "rsp": null,
@@ -303,28 +304,28 @@
       "name": "Product 7",
       "prices": {
         "amazon": {
-          "rsp": null,
+          "rsp": "11.00",
           "list_price": null,
-          "url": "https://www.amazon.ae/s?k=6291101710002",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.amazon.ae/Hotpack-Disposable-Packaging-Aluminium-Container/dp/B07PN2PCGN/ref=sr_1_1?dib=eyJ2IjoiMSJ9.kZRg0EekpyGPhu6a51KlwA.gXas_8hj7szK3HZ157oom4gA7x9CNBMbHwOV93kULWg&dib_tag=se&keywords=6291101710002&qid=1785351598&sr=8-1",
+          "status": "Success"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101710002",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "HTTP Error 404"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101710002",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "status": "HTTP Error 404"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101710002",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scraperant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fgrocery%2Fsearch%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.scraperant.com', port=443): Failed to resolve 'api.scraperant.com' ([Errno -2] Name or service not known)\"))"
+          "url": "https://www.talabat.com/uae/contact-us",
+          "status": "Success"
         },
         "careem": {
           "rsp": null,
