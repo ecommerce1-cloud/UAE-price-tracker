@@ -1,87 +1,86 @@
 {
-  "last_updated": "2026-08-03 06:23 AM Dubai Time",
+  "last_updated": "2026-08-04 05:51 AM Dubai Time",
   "log": [
-    "[06:12:49] Starting Daily Price Comparison Scraper...",
-    "[06:12:49] Loaded 7 products to track.",
-    "[06:12:49] --------------------------------------------------",
-    "[06:12:49] Processing Product: Product 1 (Barcode: 5056141881928)",
-    "[06:12:49] Amazon: Searching barcode 5056141881928...",
-    "[06:13:11] Amazon Success: RSP=25.00, List=None",
-    "[06:13:16] Noon & Noon Minutes: Searching barcode 5056141881928...",
-    "[06:13:37] Noon: Product not found in search grid.",
-    "[06:13:42] Talabat: Searching barcode 5056141881928...",
-    "[06:14:03] Talabat Success: RSP=None, List=None",
-    "[06:14:08] Careem Quik: Searching barcode 5056141881928...",
-    "[06:14:08] Careem Error: Session Token is missing. Skipping.",
-    "[06:14:08] Finished product: Product 1",
-    "[06:14:18] --------------------------------------------------",
-    "[06:14:18] Processing Product: Product 2 (Barcode: 6291101714444)",
-    "[06:14:18] Amazon: Searching barcode 6291101714444...",
-    "[06:15:15] Amazon Success: RSP=18.00, List=31.90",
-    "[06:15:20] Noon & Noon Minutes: Searching barcode 6291101714444...",
-    "[06:15:44] Noon Success: RSP=None, List=30.00",
-    "[06:15:44] Noon Minutes Success: RSP=None, Status=Not Stocked",
-    "[06:15:49] Talabat: Searching barcode 6291101714444...",
-    "[06:16:08] Talabat Success: RSP=None, List=None",
-    "[06:16:13] Careem Quik: Searching barcode 6291101714444...",
-    "[06:16:13] Careem Error: Session Token is missing. Skipping.",
-    "[06:16:13] Finished product: Product 2",
-    "[06:16:23] --------------------------------------------------",
-    "[06:16:23] Processing Product: Product 3 (Barcode: 6291101713676)",
-    "[06:16:23] Amazon: Searching barcode 6291101713676...",
-    "[06:16:36] Amazon: Product not found.",
-    "[06:16:41] Noon & Noon Minutes: Searching barcode 6291101713676...",
-    "[06:16:55] Noon Success: RSP=None, List=22.00",
-    "[06:16:55] Noon Minutes Success: RSP=None, Status=Not Stocked",
-    "[06:17:00] Talabat: Searching barcode 6291101713676...",
-    "[06:17:21] Talabat Success: RSP=None, List=None",
-    "[06:17:26] Careem Quik: Searching barcode 6291101713676...",
-    "[06:17:26] Careem Error: Session Token is missing. Skipping.",
-    "[06:17:26] Finished product: Product 3",
-    "[06:17:36] --------------------------------------------------",
-    "[06:17:36] Processing Product: Product 4 (Barcode: 6291101712006)",
-    "[06:17:36] Amazon: Searching barcode 6291101712006...",
-    "[06:18:06] Amazon Success: RSP=22.00, List=0.49",
-    "[06:18:11] Noon & Noon Minutes: Searching barcode 6291101712006...",
-    "[06:18:34] Noon: Product not found in search grid.",
-    "[06:18:39] Talabat: Searching barcode 6291101712006...",
-    "[06:18:52] Talabat Error: HTTP Error 404",
-    "[06:18:57] Careem Quik: Searching barcode 6291101712006...",
-    "[06:18:57] Careem Error: Session Token is missing. Skipping.",
-    "[06:18:57] Finished product: Product 4",
-    "[06:19:07] --------------------------------------------------",
-    "[06:19:07] Processing Product: Product 5 (Barcode: 5056141881935)",
-    "[06:19:07] Amazon: Searching barcode 5056141881935...",
-    "[06:19:20] Amazon Success: RSP=22.00, List=37.00",
-    "[06:19:25] Noon & Noon Minutes: Searching barcode 5056141881935...",
-    "[06:19:37] Noon Error: HTTP Error 404",
-    "[06:19:42] Talabat: Searching barcode 5056141881935...",
-    "[06:20:05] Talabat Success: RSP=None, List=None",
-    "[06:20:10] Careem Quik: Searching barcode 5056141881935...",
-    "[06:20:10] Careem Error: Session Token is missing. Skipping.",
-    "[06:20:10] Finished product: Product 5",
-    "[06:20:20] --------------------------------------------------",
-    "[06:20:20] Processing Product: Product 6 (Barcode: 6291101716608)",
-    "[06:20:20] Amazon: Searching barcode 6291101716608...",
-    "[06:20:34] Amazon Success: RSP=6.00, List=9.48",
-    "[06:20:39] Noon & Noon Minutes: Searching barcode 6291101716608...",
-    "[06:21:14] Noon: Product not found in search grid.",
-    "[06:21:19] Talabat: Searching barcode 6291101716608...",
-    "[06:21:38] Talabat Success: RSP=None, List=None",
-    "[06:21:43] Careem Quik: Searching barcode 6291101716608...",
-    "[06:21:43] Careem Error: Session Token is missing. Skipping.",
-    "[06:21:43] Finished product: Product 6",
-    "[06:21:53] --------------------------------------------------",
-    "[06:21:53] Processing Product: Product 7 (Barcode: 6291101710002)",
-    "[06:21:53] Amazon: Searching barcode 6291101710002...",
-    "[06:22:14] Amazon Success: RSP=9.00, List=11.30",
-    "[06:22:19] Noon & Noon Minutes: Searching barcode 6291101710002...",
-    "[06:22:35] Noon: Product not found in search grid.",
-    "[06:22:40] Talabat: Searching barcode 6291101710002...",
-    "[06:23:08] Talabat Success: RSP=None, List=None",
-    "[06:23:13] Careem Quik: Searching barcode 6291101710002...",
-    "[06:23:13] Careem Error: Session Token is missing. Skipping.",
-    "[06:23:13] Finished product: Product 7"
+    "[05:41:09] Starting Daily Price Comparison Scraper...",
+    "[05:41:09] Loaded 7 products to track.",
+    "[05:41:09] --------------------------------------------------",
+    "[05:41:09] Processing Product: Product 1 (Barcode: 5056141881928)",
+    "[05:41:09] Amazon: Searching barcode 5056141881928...",
+    "[05:41:30] Amazon Success: RSP=22.00, List=None",
+    "[05:41:35] Noon & Noon Minutes: Searching barcode 5056141881928...",
+    "[05:41:54] Noon: Product not found in search grid.",
+    "[05:41:59] Talabat: Searching barcode 5056141881928...",
+    "[05:42:12] Talabat Error: HTTP Error 404",
+    "[05:42:17] Careem Quik: Searching barcode 5056141881928...",
+    "[05:42:17] Careem Error: Session Token is missing. Skipping.",
+    "[05:42:17] Finished product: Product 1",
+    "[05:42:27] --------------------------------------------------",
+    "[05:42:27] Processing Product: Product 2 (Barcode: 6291101714444)",
+    "[05:42:27] Amazon: Searching barcode 6291101714444...",
+    "[05:42:41] Amazon Success: RSP=18.00, List=31.90",
+    "[05:42:46] Noon & Noon Minutes: Searching barcode 6291101714444...",
+    "[05:43:29] Noon Success: RSP=None, List=30.00",
+    "[05:43:29] Noon Minutes Success: RSP=None, Status=Not Stocked",
+    "[05:43:34] Talabat: Searching barcode 6291101714444...",
+    "[05:44:08] Talabat Success: RSP=None, List=None",
+    "[05:44:13] Careem Quik: Searching barcode 6291101714444...",
+    "[05:44:13] Careem Error: Session Token is missing. Skipping.",
+    "[05:44:13] Finished product: Product 2",
+    "[05:44:23] --------------------------------------------------",
+    "[05:44:23] Processing Product: Product 3 (Barcode: 6291101713676)",
+    "[05:44:23] Amazon: Searching barcode 6291101713676...",
+    "[05:44:36] Amazon: Product not found.",
+    "[05:44:41] Noon & Noon Minutes: Searching barcode 6291101713676...",
+    "[05:44:47] Noon Error: HTTP Error 423",
+    "[05:44:52] Talabat: Searching barcode 6291101713676...",
+    "[05:45:12] Talabat Success: RSP=None, List=None",
+    "[05:45:17] Careem Quik: Searching barcode 6291101713676...",
+    "[05:45:17] Careem Error: Session Token is missing. Skipping.",
+    "[05:45:17] Finished product: Product 3",
+    "[05:45:27] --------------------------------------------------",
+    "[05:45:27] Processing Product: Product 4 (Barcode: 6291101712006)",
+    "[05:45:27] Amazon: Searching barcode 6291101712006...",
+    "[05:45:41] Amazon Success: RSP=22.00, List=0.49",
+    "[05:45:46] Noon & Noon Minutes: Searching barcode 6291101712006...",
+    "[05:46:02] Noon: Product not found in search grid.",
+    "[05:46:07] Talabat: Searching barcode 6291101712006...",
+    "[05:46:33] Talabat Success: RSP=None, List=None",
+    "[05:46:38] Careem Quik: Searching barcode 6291101712006...",
+    "[05:46:38] Careem Error: Session Token is missing. Skipping.",
+    "[05:46:38] Finished product: Product 4",
+    "[05:46:48] --------------------------------------------------",
+    "[05:46:48] Processing Product: Product 5 (Barcode: 5056141881935)",
+    "[05:46:48] Amazon: Searching barcode 5056141881935...",
+    "[05:47:08] Amazon Success: RSP=22.00, List=37.00",
+    "[05:47:13] Noon & Noon Minutes: Searching barcode 5056141881935...",
+    "[05:47:42] Noon: Product not found in search grid.",
+    "[05:47:47] Talabat: Searching barcode 5056141881935...",
+    "[05:48:00] Talabat Error: HTTP Error 404",
+    "[05:48:05] Careem Quik: Searching barcode 5056141881935...",
+    "[05:48:05] Careem Error: Session Token is missing. Skipping.",
+    "[05:48:05] Finished product: Product 5",
+    "[05:48:15] --------------------------------------------------",
+    "[05:48:15] Processing Product: Product 6 (Barcode: 6291101716608)",
+    "[05:48:15] Amazon: Searching barcode 6291101716608...",
+    "[05:48:31] Amazon Success: RSP=6.00, List=9.48",
+    "[05:48:36] Noon & Noon Minutes: Searching barcode 6291101716608...",
+    "[05:48:50] Noon: Product not found in search grid.",
+    "[05:48:55] Talabat: Searching barcode 6291101716608...",
+    "[05:49:22] Talabat Success: RSP=None, List=None",
+    "[05:49:27] Careem Quik: Searching barcode 6291101716608...",
+    "[05:49:27] Careem Error: Session Token is missing. Skipping.",
+    "[05:49:27] Finished product: Product 6",
+    "[05:49:37] --------------------------------------------------",
+    "[05:49:37] Processing Product: Product 7 (Barcode: 6291101710002)",
+    "[05:49:37] Amazon: Searching barcode 6291101710002...",
+    "[05:49:56] Amazon Success: RSP=9.00, List=11.30",
+    "[05:50:01] Noon & Noon Minutes: Searching barcode 6291101710002...",
+    "[05:50:15] Noon: Product not found in search grid.",
+    "[05:50:20] Talabat: Searching barcode 6291101710002...",
+    "[05:50:49] Talabat Success: RSP=None, List=None",
+    "[05:50:54] Careem Quik: Searching barcode 6291101710002...",
+    "[05:50:54] Careem Error: Session Token is missing. Skipping.",
+    "[05:50:54] Finished product: Product 7"
   ],
   "products": [
     {
@@ -89,9 +88,9 @@
       "name": "Product 1",
       "prices": {
         "amazon": {
-          "rsp": "25.00",
+          "rsp": "22.00",
           "list_price": null,
-          "url": "https://www.amazon.ae/HOTPACK-Bio-Degradable-Disposable-Garbage-Gallons/dp/B092BTLHZX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.4LrudGsbbyFjz0uf7qYY09aI2KLpIrP7dm2ud2MUmsY.8cyfaY1rV6I2sMJm2NJN_Iz0QAYeF84s8ehYVlVIMGU&dib_tag=se&keywords=5056141881928&qid=1785737573&sr=8-1",
+          "url": "https://www.amazon.ae/HOTPACK-Bio-Degradable-Disposable-Garbage-Gallons/dp/B092BTLHZX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.4LrudGsbbyFjz0uf7qYY09aI2KLpIrP7dm2ud2MUmsY.iRTapqCAMMwecsFgjR4zkJrJHLmEgS1g4ozHv5O2R3M&dib_tag=se&keywords=5056141881928&qid=1785822078&sr=8-1",
           "status": "Success"
         },
         "noon": {
@@ -109,8 +108,8 @@
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Success"
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=5056141881928",
+          "status": "HTTP Error 404"
         },
         "careem": {
           "rsp": null,
@@ -127,7 +126,7 @@
         "amazon": {
           "rsp": "18.00",
           "list_price": "31.90",
-          "url": "https://www.amazon.ae/Hotpack-Garbage-Large-Gallon-110cm/dp/B07PDZSR8R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3khIQ__h4sYbmwiR1UKYiQ.en1BsDK-QDZGmCSAXn24nOAmhhGyEPFxNn3ywT5E8QE&dib_tag=se&keywords=6291101714444&qid=1785737661&sr=8-1",
+          "url": "https://www.amazon.ae/Hotpack-Garbage-Large-Gallon-110cm/dp/B07PDZSR8R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3khIQ__h4sYbmwiR1UKYiQ.op2xmcTWK0bZD_vkaJWcMUNnsrwxgMXtwpQqlJtsfeY&dib_tag=se&keywords=6291101714444&qid=1785822149&sr=8-1",
           "status": "Success"
         },
         "noon": {
@@ -168,15 +167,15 @@
         },
         "noon": {
           "rsp": null,
-          "list_price": "22.00",
-          "url": "https://www.noon.com/uae-en/6-rolls-perforated-sofra-roll-assorted/N51735311A/p/?o=cefe7d8e7723582d",
-          "status": "Success"
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=6291101713676",
+          "status": "HTTP Error 423"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101713676",
-          "status": "Not Stocked"
+          "status": "HTTP Error 423"
         },
         "talabat": {
           "rsp": null,
@@ -199,7 +198,7 @@
         "amazon": {
           "rsp": "22.00",
           "list_price": "0.49",
-          "url": "https://www.amazon.ae/Hotpack-Aluminium-Foil-200-Sq-Ft/dp/B07NF7QKJG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.N8A7f1JyumDsj4vydo6wFg.QDp3KeQY3yg3B-GFWQpP7wwFJLLg6YwPj9dUC-VjJn8&dib_tag=se&keywords=6291101712006&qid=1785737863&sr=8-1",
+          "url": "https://www.amazon.ae/Hotpack-Aluminium-Foil-200-Sq-Ft/dp/B07NF7QKJG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.N8A7f1JyumDsj4vydo6wFg.kgr1z-z2QISgZJIE8Sp63zoVgSQRKmMUVNM4JbePv0c&dib_tag=se&keywords=6291101712006&qid=1785822330&sr=8-1",
           "status": "Success"
         },
         "noon": {
@@ -213,42 +212,6 @@
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101712006",
           "status": "Not Found"
-        },
-        "talabat": {
-          "rsp": null,
-          "list_price": null,
-          "url": "https://www.talabat.com/ae/en/grocery/search?q=6291101712006",
-          "status": "HTTP Error 404"
-        },
-        "careem": {
-          "rsp": null,
-          "list_price": null,
-          "url": "https://www.careem.com",
-          "status": "Token Missing"
-        }
-      }
-    },
-    {
-      "barcode": "5056141881935",
-      "name": "Product 5",
-      "prices": {
-        "amazon": {
-          "rsp": "22.00",
-          "list_price": "37.00",
-          "url": "https://www.amazon.ae/Hotpack-Disposable-Bio-Degradable-Dustbin-45x55cm/dp/B092C3N25Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.bpByYicgXCeoAT8KSl2P-g.7615daQ26hCVR4XEouJZWpv78hkxb5BH1mPYrXjWVzQ&dib_tag=se&keywords=5056141881935&qid=1785737949&sr=8-1",
-          "status": "Success"
-        },
-        "noon": {
-          "rsp": null,
-          "list_price": null,
-          "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
-          "status": "HTTP Error 404"
-        },
-        "noon_minutes": {
-          "rsp": null,
-          "list_price": null,
-          "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
-          "status": "HTTP Error 404"
         },
         "talabat": {
           "rsp": null,
@@ -265,13 +228,49 @@
       }
     },
     {
+      "barcode": "5056141881935",
+      "name": "Product 5",
+      "prices": {
+        "amazon": {
+          "rsp": "22.00",
+          "list_price": "37.00",
+          "url": "https://www.amazon.ae/Hotpack-Disposable-Bio-Degradable-Dustbin-45x55cm/dp/B092C3N25Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.bpByYicgXCeoAT8KSl2P-g.4L-Hep77cMAyAwY_t1B9XkTPeKm4o7XO3h0FKsVLbUk&dib_tag=se&keywords=5056141881935&qid=1785822416&sr=8-1",
+          "status": "Success"
+        },
+        "noon": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
+          "status": "Not Found"
+        },
+        "noon_minutes": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
+          "status": "Not Found"
+        },
+        "talabat": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.talabat.com/ae/en/grocery/search?q=5056141881935",
+          "status": "HTTP Error 404"
+        },
+        "careem": {
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.careem.com",
+          "status": "Token Missing"
+        }
+      }
+    },
+    {
       "barcode": "6291101716608",
       "name": "Product 6",
       "prices": {
         "amazon": {
           "rsp": "6.00",
           "list_price": "9.48",
-          "url": "https://www.amazon.ae/Soft-Cool-Absorbent-Sterilized-40x40cm/dp/B07P67NNZ4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.h3nRpoJTwvtwtRPGf2AfFK_4AXaBtme4vLfSPjWIXMs.xUSqjDoNSKFbpMYCFWYFZ0f840zAtYBMkgPM2mUZbwc&dib_tag=se&keywords=6291101716608&qid=1785738023&sr=8-1",
+          "url": "https://www.amazon.ae/Soft-Cool-Absorbent-Sterilized-40x40cm/dp/B07P67NNZ4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.h3nRpoJTwvtwtRPGf2AfFK_4AXaBtme4vLfSPjWIXMs.ZLKUEVHDNomjRf8ynybjrNzOaG7d6LFqh5KdQV5l3_M&dib_tag=se&keywords=6291101716608&qid=1785822499&sr=8-1",
           "status": "Success"
         },
         "noon": {
@@ -307,7 +306,7 @@
         "amazon": {
           "rsp": "9.00",
           "list_price": "11.30",
-          "url": "https://www.amazon.ae/Hotpack-Disposable-Packaging-Aluminium-Container/dp/B07PN2PCGN/ref=sr_1_1?dib=eyJ2IjoiMSJ9.kZRg0EekpyGPhu6a51KlwA.UTLDCU_-WMzkoOVIzi-w3Ri2lSH3Ip6A8BLQbGHSZ4M&dib_tag=se&keywords=6291101710002&qid=1785738116&sr=8-1",
+          "url": "https://www.amazon.ae/Hotpack-Disposable-Packaging-Aluminium-Container/dp/B07PN2PCGN/ref=sr_1_1?dib=eyJ2IjoiMSJ9.kZRg0EekpyGPhu6a51KlwA.GxisTSf-LV827LAenabS4vbUY64WwPunLJ5W-WsAGhE&dib_tag=se&keywords=6291101710002&qid=1785822580&sr=8-1",
           "status": "Success"
         },
         "noon": {
