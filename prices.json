@@ -1,99 +1,99 @@
 {
-  "last_updated": "2026-08-30 09:07 AM Dubai Time",
+  "last_updated": "2026-08-31 09:24 AM Dubai Time",
   "log": [
-    "[08:46:42] Starting Daily Price Comparison Scraper...",
-    "[08:46:42] Loaded 7 products to track.",
-    "[08:46:42] --------------------------------------------------",
-    "[08:46:42] Processing Product: Product 1 (Barcode: 5056141881928)",
-    "[08:46:42] Amazon: Searching barcode 5056141881928...",
-    "[08:47:17] Amazon Error: HTTP Error 404",
-    "[08:47:22] Noon: Searching barcode 5056141881928...",
-    "[08:47:51] Noon Error: HTTP Error 502",
-    "[08:47:56] Noon Minutes: Searching barcode 5056141881928...",
-    "[08:48:08] Noon Minutes: Product not found.",
-    "[08:48:13] Talabat: Searching barcode 5056141881928...",
-    "[08:48:37] Talabat Success: RSP=None, List=None",
-    "[08:48:42] Careem Quik: Searching barcode 5056141881928...",
-    "[08:48:42] Careem Error: Session Token is missing. Skipping.",
-    "[08:48:42] Finished product: Product 1",
-    "[08:48:52] --------------------------------------------------",
-    "[08:48:52] Processing Product: Product 2 (Barcode: 6291101714444)",
-    "[08:48:52] Amazon: Searching barcode 6291101714444...",
-    "[08:49:19] Amazon Success: RSP=18.00, List=31.90",
-    "[08:49:24] Noon: Searching barcode 6291101714444...",
-    "[08:49:47] Noon Success: RSP=None, List=None",
-    "[08:49:52] Noon Minutes: Searching barcode 6291101714444...",
-    "[08:50:03] Noon Minutes: Product not found.",
-    "[08:50:08] Talabat: Searching barcode 6291101714444...",
-    "[08:51:04] Talabat Success: RSP=None, List=None",
-    "[08:51:09] Careem Quik: Searching barcode 6291101714444...",
-    "[08:51:09] Careem Error: Session Token is missing. Skipping.",
-    "[08:51:09] Finished product: Product 2",
-    "[08:51:19] --------------------------------------------------",
-    "[08:51:19] Processing Product: Product 3 (Barcode: 6291101713676)",
-    "[08:51:19] Amazon: Searching barcode 6291101713676...",
-    "[08:51:41] Amazon Success: RSP=29.00, List=35.91",
-    "[08:51:46] Noon: Searching barcode 6291101713676...",
-    "[08:53:01] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)",
-    "[08:53:06] Noon Minutes: Searching barcode 6291101713676...",
-    "[08:53:23] Noon Minutes: Product not found.",
-    "[08:53:28] Talabat: Searching barcode 6291101713676...",
-    "[08:54:20] Talabat Success: RSP=None, List=None",
-    "[08:54:25] Careem Quik: Searching barcode 6291101713676...",
-    "[08:54:25] Careem Error: Session Token is missing. Skipping.",
-    "[08:54:25] Finished product: Product 3",
-    "[08:54:35] --------------------------------------------------",
-    "[08:54:35] Processing Product: Product 4 (Barcode: 6291101712006)",
-    "[08:54:35] Amazon: Searching barcode 6291101712006...",
-    "[08:55:29] Amazon Success: RSP=23.00, List=0.51",
-    "[08:55:34] Noon: Searching barcode 6291101712006...",
-    "[08:56:28] Noon: Product not found in search grid.",
-    "[08:56:33] Noon Minutes: Searching barcode 6291101712006...",
-    "[08:56:44] Noon Minutes: Product not found.",
-    "[08:56:49] Talabat: Searching barcode 6291101712006...",
-    "[08:57:36] Talabat Success: RSP=None, List=None",
-    "[08:57:41] Careem Quik: Searching barcode 6291101712006...",
-    "[08:57:41] Careem Error: Session Token is missing. Skipping.",
-    "[08:57:41] Finished product: Product 4",
-    "[08:57:51] --------------------------------------------------",
-    "[08:57:51] Processing Product: Product 5 (Barcode: 5056141881935)",
-    "[08:57:51] Amazon: Searching barcode 5056141881935...",
-    "[08:58:20] Amazon Success: RSP=23.00, List=37.00",
-    "[08:58:25] Noon: Searching barcode 5056141881935...",
-    "[08:59:40] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)",
-    "[08:59:45] Noon Minutes: Searching barcode 5056141881935...",
-    "[08:59:47] Noon Minutes Error: HTTP Error 409",
-    "[08:59:52] Talabat: Searching barcode 5056141881935...",
-    "[09:00:24] Talabat Success: RSP=None, List=None",
-    "[09:00:29] Careem Quik: Searching barcode 5056141881935...",
-    "[09:00:29] Careem Error: Session Token is missing. Skipping.",
-    "[09:00:29] Finished product: Product 5",
-    "[09:00:39] --------------------------------------------------",
-    "[09:00:39] Processing Product: Product 6 (Barcode: 6291101716608)",
-    "[09:00:39] Amazon: Searching barcode 6291101716608...",
-    "[09:01:35] Amazon Success: RSP=5.00, List=6.40",
-    "[09:01:40] Noon: Searching barcode 6291101716608...",
-    "[09:02:42] Noon Error: HTTP Error 502",
-    "[09:02:47] Noon Minutes: Searching barcode 6291101716608...",
-    "[09:02:59] Noon Minutes: Product not found.",
-    "[09:03:04] Talabat: Searching barcode 6291101716608...",
-    "[09:03:42] Talabat Success: RSP=None, List=None",
-    "[09:03:47] Careem Quik: Searching barcode 6291101716608...",
-    "[09:03:47] Careem Error: Session Token is missing. Skipping.",
-    "[09:03:47] Finished product: Product 6",
-    "[09:03:57] --------------------------------------------------",
-    "[09:03:57] Processing Product: Product 7 (Barcode: 6291101710002)",
-    "[09:03:57] Amazon: Searching barcode 6291101710002...",
-    "[09:04:24] Amazon Success: RSP=8.00, List=11.30",
-    "[09:04:29] Noon: Searching barcode 6291101710002...",
-    "[09:05:44] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)",
-    "[09:05:49] Noon Minutes: Searching barcode 6291101710002...",
-    "[09:06:14] Noon Minutes: Product not found.",
-    "[09:06:19] Talabat: Searching barcode 6291101710002...",
-    "[09:07:19] Talabat Success: RSP=None, List=None",
-    "[09:07:24] Careem Quik: Searching barcode 6291101710002...",
-    "[09:07:24] Careem Error: Session Token is missing. Skipping.",
-    "[09:07:24] Finished product: Product 7"
+    "[09:08:47] Starting Daily Price Comparison Scraper...",
+    "[09:08:47] Loaded 7 products to track.",
+    "[09:08:47] --------------------------------------------------",
+    "[09:08:47] Processing Product: Product 1 (Barcode: 5056141881928)",
+    "[09:08:47] Amazon: Searching barcode 5056141881928...",
+    "[09:09:39] Amazon Success: RSP=25.00, List=None",
+    "[09:09:44] Noon: Searching barcode 5056141881928...",
+    "[09:10:31] Noon Error: HTTP Error 502",
+    "[09:10:36] Noon Minutes: Searching barcode 5056141881928...",
+    "[09:10:51] Noon Minutes: Product not found.",
+    "[09:10:56] Talabat: Searching barcode 5056141881928...",
+    "[09:11:25] Talabat Success: RSP=None, List=None",
+    "[09:11:30] Careem Quik: Searching barcode 5056141881928...",
+    "[09:11:30] Careem Error: Session Token is missing. Skipping.",
+    "[09:11:30] Finished product: Product 1",
+    "[09:11:40] --------------------------------------------------",
+    "[09:11:40] Processing Product: Product 2 (Barcode: 6291101714444)",
+    "[09:11:40] Amazon: Searching barcode 6291101714444...",
+    "[09:12:08] Amazon Success: RSP=18.00, List=31.90",
+    "[09:12:13] Noon: Searching barcode 6291101714444...",
+    "[09:13:28] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)",
+    "[09:13:33] Noon Minutes: Searching barcode 6291101714444...",
+    "[09:13:35] Noon Minutes Error: HTTP Error 409",
+    "[09:13:40] Talabat: Searching barcode 6291101714444...",
+    "[09:13:42] Talabat Error: HTTP Error 409",
+    "[09:13:47] Careem Quik: Searching barcode 6291101714444...",
+    "[09:13:47] Careem Error: Session Token is missing. Skipping.",
+    "[09:13:47] Finished product: Product 2",
+    "[09:13:57] --------------------------------------------------",
+    "[09:13:57] Processing Product: Product 3 (Barcode: 6291101713676)",
+    "[09:13:57] Amazon: Searching barcode 6291101713676...",
+    "[09:14:53] Amazon Success: RSP=29.00, List=35.91",
+    "[09:14:58] Noon: Searching barcode 6291101713676...",
+    "[09:16:14] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)",
+    "[09:16:19] Noon Minutes: Searching barcode 6291101713676...",
+    "[09:16:20] Noon Minutes Error: HTTP Error 409",
+    "[09:16:25] Talabat: Searching barcode 6291101713676...",
+    "[09:17:14] Talabat Success: RSP=None, List=None",
+    "[09:17:19] Careem Quik: Searching barcode 6291101713676...",
+    "[09:17:19] Careem Error: Session Token is missing. Skipping.",
+    "[09:17:19] Finished product: Product 3",
+    "[09:17:29] --------------------------------------------------",
+    "[09:17:29] Processing Product: Product 4 (Barcode: 6291101712006)",
+    "[09:17:29] Amazon: Searching barcode 6291101712006...",
+    "[09:18:25] Amazon Success: RSP=23.00, List=0.51",
+    "[09:18:30] Noon: Searching barcode 6291101712006...",
+    "[09:19:45] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)",
+    "[09:19:50] Noon Minutes: Searching barcode 6291101712006...",
+    "[09:19:52] Noon Minutes Error: HTTP Error 409",
+    "[09:19:57] Talabat: Searching barcode 6291101712006...",
+    "[09:19:59] Talabat Error: HTTP Error 409",
+    "[09:20:04] Careem Quik: Searching barcode 6291101712006...",
+    "[09:20:04] Careem Error: Session Token is missing. Skipping.",
+    "[09:20:04] Finished product: Product 4",
+    "[09:20:14] --------------------------------------------------",
+    "[09:20:14] Processing Product: Product 5 (Barcode: 5056141881935)",
+    "[09:20:14] Amazon: Searching barcode 5056141881935...",
+    "[09:20:34] Amazon Success: RSP=23.00, List=37.00",
+    "[09:20:39] Noon: Searching barcode 5056141881935...",
+    "[09:21:13] Noon Error: HTTP Error 502",
+    "[09:21:18] Noon Minutes: Searching barcode 5056141881935...",
+    "[09:21:31] Noon Minutes: Product not found.",
+    "[09:21:36] Talabat: Searching barcode 5056141881935...",
+    "[09:22:31] Talabat Success: RSP=None, List=None",
+    "[09:22:36] Careem Quik: Searching barcode 5056141881935...",
+    "[09:22:36] Careem Error: Session Token is missing. Skipping.",
+    "[09:22:36] Finished product: Product 5",
+    "[09:22:46] --------------------------------------------------",
+    "[09:22:46] Processing Product: Product 6 (Barcode: 6291101716608)",
+    "[09:22:46] Amazon: Searching barcode 6291101716608...",
+    "[09:23:06] Amazon Success: RSP=5.00, List=6.40",
+    "[09:23:11] Noon: Searching barcode 6291101716608...",
+    "[09:23:26] Noon Error: HTTP Error 403",
+    "[09:23:31] Noon Minutes: Searching barcode 6291101716608...",
+    "[09:23:35] Noon Minutes Error: HTTP Error 403",
+    "[09:23:40] Talabat: Searching barcode 6291101716608...",
+    "[09:23:43] Talabat Error: HTTP Error 403",
+    "[09:23:48] Careem Quik: Searching barcode 6291101716608...",
+    "[09:23:48] Careem Error: Session Token is missing. Skipping.",
+    "[09:23:48] Finished product: Product 6",
+    "[09:23:58] --------------------------------------------------",
+    "[09:23:58] Processing Product: Product 7 (Barcode: 6291101710002)",
+    "[09:23:58] Amazon: Searching barcode 6291101710002...",
+    "[09:24:02] Amazon Error: HTTP Error 403",
+    "[09:24:07] Noon: Searching barcode 6291101710002...",
+    "[09:24:11] Noon Error: HTTP Error 403",
+    "[09:24:16] Noon Minutes: Searching barcode 6291101710002...",
+    "[09:24:19] Noon Minutes Error: HTTP Error 403",
+    "[09:24:24] Talabat: Searching barcode 6291101710002...",
+    "[09:24:28] Talabat Error: HTTP Error 403",
+    "[09:24:33] Careem Quik: Searching barcode 6291101710002...",
+    "[09:24:33] Careem Error: Session Token is missing. Skipping.",
+    "[09:24:33] Finished product: Product 7"
   ],
   "products": [
     {
@@ -101,10 +101,10 @@
       "name": "Product 1",
       "prices": {
         "amazon": {
-          "rsp": null,
+          "rsp": "25.00",
           "list_price": null,
-          "url": "https://www.amazon.ae/s?k=5056141881928",
-          "status": "HTTP Error 404"
+          "url": "https://www.amazon.ae/HOTPACK-Bio-Degradable-Disposable-Garbage-Gallons/dp/B092BTLHZX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.4LrudGsbbyFjz0uf7qYY09aI2KLpIrP7dm2ud2MUmsY.AdaBu-K9vnKZssWyCshVGspj57NHSkRgFPFI-QLboLQ&dib_tag=se&keywords=5056141881928&qid=1788167335&sr=8-1",
+          "status": "Success"
         },
         "noon": {
           "rsp": null,
@@ -139,26 +139,26 @@
         "amazon": {
           "rsp": "18.00",
           "list_price": "31.90",
-          "url": "https://www.amazon.ae/Hotpack-Garbage-Large-Gallon-110cm/dp/B07PDZSR8R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3khIQ__h4sYbmwiR1UKYiQ.xWKLcpf4SBCPCecZi89PdrjIVPqkjbkp4UuHBjDbLRw&dib_tag=se&keywords=6291101714444&qid=1788079735&sr=8-1",
+          "url": "https://www.amazon.ae/-/ar/%D9%87%D9%88%D8%AA-%D8%A8%D8%A7%D9%83-OPGBR80110-%D9%87%D9%88%D8%AA%D8%A8%D8%A7%D9%83-%D8%A7%D9%83%D9%8A%D8%A7%D8%B3/dp/B07PDZSR8R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3khIQ__h4sYbmwiR1UKYiQ.0H1nlASD6tO7gMkrgMkDnQlIhAa0XbynDPTxzTQPa4k&dib_tag=se&keywords=6291101714444&qid=1788167511&sr=8-1",
           "status": "Success"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.noon.com/uae-en/25-pieces-hotpack-coloured-plastic-plates-10-inch-multicolor/Z55C0E567D3663B4FBBF6Z/p/?o=z55c0e567d3663b4fbbf6z-1",
-          "status": "Not Found"
+          "url": "https://www.noon.com/uae-en/search/?q=6291101714444",
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101714444",
-          "status": "Not Stocked"
+          "status": "HTTP Error 409"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Not Found"
+          "url": "https://www.talabat.com/ae/en/search?q=6291101714444",
+          "status": "HTTP Error 409"
         },
         "careem": {
           "rsp": null,
@@ -175,7 +175,7 @@
         "amazon": {
           "rsp": "29.00",
           "list_price": "35.91",
-          "url": "https://www.amazon.ae/Hotpack-Disposable-Embossed-Silver-Aluminium/dp/B087KN4GGB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7wid3Vj9WEDH_vWQVlsj4w.0PXeQYHizFTFSJJCnW53C9z4crhZhla4nzgJZpPjmYM&dib_tag=se&keywords=6291101713676&qid=1788079883&sr=8-1",
+          "url": "https://www.amazon.ae/-/ar/%D9%87%D9%88%D8%AA-%D8%A8%D8%A7%D9%83-%D8%A7%D9%84%D9%88%D9%85%D9%86%D9%8A%D9%88%D9%85-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B7%D8%B9%D8%A7%D9%85%D8%8C/dp/B087KN4GGB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7wid3Vj9WEDH_vWQVlsj4w.QDT6TYIJzgobk17SfTQM2WBmVPy5TkDcTAuClF68f7w&dib_tag=se&keywords=6291101713676&qid=1788167644&sr=8-1",
           "status": "Success"
         },
         "noon": {
@@ -188,7 +188,7 @@
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101713676",
-          "status": "Not Stocked"
+          "status": "HTTP Error 409"
         },
         "talabat": {
           "rsp": null,
@@ -211,26 +211,26 @@
         "amazon": {
           "rsp": "23.00",
           "list_price": "0.51",
-          "url": "https://www.amazon.ae/Hotpack-Aluminium-Foil-200-Sq-Ft/dp/B07NF7QKJG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.N8A7f1JyumDsj4vydo6wFg.pdOo7W8eGOxArTxNHuyO3O6gNSjg0hPFlh1r0dF8WUQ&dib_tag=se&keywords=6291101712006&qid=1788080083&sr=8-1",
+          "url": "https://www.amazon.ae/Hotpack-Aluminium-Foil-200-Sq-Ft/dp/B07NF7QKJG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.N8A7f1JyumDsj4vydo6wFg.IhRTJg14_41cTtMDdfZ-TuH5YrRiKzFU2qo_rjic6SM&dib_tag=se&keywords=6291101712006&qid=1788167858&sr=8-1",
           "status": "Success"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101712006",
-          "status": "Not Found"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101712006",
-          "status": "Not Stocked"
+          "status": "HTTP Error 409"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Not Found"
+          "url": "https://www.talabat.com/ae/en/search?q=6291101712006",
+          "status": "HTTP Error 409"
         },
         "careem": {
           "rsp": null,
@@ -247,20 +247,20 @@
         "amazon": {
           "rsp": "23.00",
           "list_price": "37.00",
-          "url": "https://www.amazon.ae/Hotpack-Disposable-Bio-Degradable-Dustbin-45x55cm/dp/B092C3N25Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.bpByYicgXCeoAT8KSl2P-g.3gLYIHNgkREAK3aS5Qp5q0ryIH2MmfPIATNlF6u9jfU&dib_tag=se&keywords=5056141881935&qid=1788080275&sr=8-1",
+          "url": "https://www.amazon.ae/Hotpack-Disposable-Bio-Degradable-Dustbin-45x55cm/dp/B092C3N25Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.bpByYicgXCeoAT8KSl2P-g.388K5AaCEGD4pjWLdUR4UBeMhibAyD5lC9dxu_2skyA&dib_tag=se&keywords=5056141881935&qid=1788168021&sr=8-1",
           "status": "Success"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)"
+          "status": "HTTP Error 502"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=5056141881935",
-          "status": "HTTP Error 409"
+          "status": "Not Stocked"
         },
         "talabat": {
           "rsp": null,
@@ -283,26 +283,26 @@
         "amazon": {
           "rsp": "5.00",
           "list_price": "6.40",
-          "url": "https://www.amazon.ae/Soft-Cool-Absorbent-Sterilized-40x40cm/dp/B07P67NNZ4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.h3nRpoJTwvtwtRPGf2AfFK_4AXaBtme4vLfSPjWIXMs.BKiPWKc8YYMyuDJQQceLP2t9WVE3m1SUhDGhUqC_5ME&dib_tag=se&keywords=6291101716608&qid=1788080445&sr=8-1",
+          "url": "https://www.amazon.ae/-/ar/%D8%B3%D9%88%D9%81%D8%AA-%D8%A7%D9%86-%D9%83%D9%88%D9%84-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%B5%D8%A7%D8%B5-%D8%A8%D8%B7%D8%A8%D9%82%D8%AA%D9%8A%D9%86%D8%8C/dp/B07P67NNZ4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.h3nRpoJTwvtwtRPGf2AfFK_4AXaBtme4vLfSPjWIXMs.O4tKPohd1MDN5PmiuMrirQR6rjtnTlR4P3kpYfoTDhY&dib_tag=se&keywords=6291101716608&qid=1788168173&sr=8-1",
           "status": "Success"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101716608",
-          "status": "HTTP Error 502"
+          "status": "HTTP Error 403"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101716608",
-          "status": "Not Stocked"
+          "status": "HTTP Error 403"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Not Found"
+          "url": "https://www.talabat.com/ae/en/search?q=6291101716608",
+          "status": "HTTP Error 403"
         },
         "careem": {
           "rsp": null,
@@ -317,28 +317,28 @@
       "name": "Product 7",
       "prices": {
         "amazon": {
-          "rsp": "8.00",
-          "list_price": "11.30",
-          "url": "https://www.amazon.ae/Hotpack-Disposable-Packaging-Aluminium-Container/dp/B07PN2PCGN/ref=sr_1_1?dib=eyJ2IjoiMSJ9.kZRg0EekpyGPhu6a51KlwA.P4mhEbhJtGw4oRnZaQaxwmGlBO-bnodXbDyuJ_6jqLQ&dib_tag=se&keywords=6291101710002&qid=1788080640&sr=8-1",
-          "status": "Success"
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.amazon.ae/s?k=6291101710002",
+          "status": "HTTP Error 403"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101710002",
-          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=75)"
+          "status": "HTTP Error 403"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101710002",
-          "status": "Not Stocked"
+          "status": "HTTP Error 403"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Not Found"
+          "url": "https://www.talabat.com/ae/en/search?q=6291101710002",
+          "status": "HTTP Error 403"
         },
         "careem": {
           "rsp": null,
