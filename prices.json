@@ -1,99 +1,99 @@
 {
-  "last_updated": "2026-09-30 09:21 AM Dubai Time",
+  "last_updated": "2026-10-01 09:43 AM Dubai Time",
   "log": [
-    "[09:11:02] Starting Daily Price Comparison Scraper...",
-    "[09:11:02] Loaded 7 products to track.",
-    "[09:11:02] --------------------------------------------------",
-    "[09:11:02] Processing Product: Product 1 (Barcode: 5056141881928)",
-    "[09:11:02] Amazon: Searching barcode 5056141881928...",
-    "[09:11:18] Amazon Success: RSP=28.00, List=None",
-    "[09:11:23] Noon: Searching barcode 5056141881928...",
-    "[09:11:54] Noon Success: RSP=None, List=None",
-    "[09:11:59] Noon Minutes: Searching barcode 5056141881928...",
-    "[09:12:10] Noon Minutes: Product not found.",
-    "[09:12:15] Talabat: Searching barcode 5056141881928...",
-    "[09:12:38] Talabat Success: RSP=None, List=None",
-    "[09:12:43] Careem Quik: Searching barcode 5056141881928...",
-    "[09:12:43] Careem Error: Session Token is missing. Skipping.",
-    "[09:12:43] Finished product: Product 1",
-    "[09:12:53] --------------------------------------------------",
-    "[09:12:53] Processing Product: Product 2 (Barcode: 6291101714444)",
-    "[09:12:53] Amazon: Searching barcode 6291101714444...",
-    "[09:13:08] Amazon Success: RSP=31.00, List=None",
-    "[09:13:13] Noon: Searching barcode 6291101714444...",
-    "[09:13:36] Noon Success: RSP=None, List=None",
-    "[09:13:41] Noon Minutes: Searching barcode 6291101714444...",
-    "[09:13:57] Noon Minutes: Product not found.",
-    "[09:14:02] Talabat: Searching barcode 6291101714444...",
-    "[09:14:27] Talabat Success: RSP=None, List=None",
-    "[09:14:32] Careem Quik: Searching barcode 6291101714444...",
-    "[09:14:32] Careem Error: Session Token is missing. Skipping.",
-    "[09:14:32] Finished product: Product 2",
-    "[09:14:42] --------------------------------------------------",
-    "[09:14:42] Processing Product: Product 3 (Barcode: 6291101713676)",
-    "[09:14:42] Amazon: Searching barcode 6291101713676...",
-    "[09:14:57] Amazon: Product not found.",
-    "[09:15:02] Noon: Searching barcode 6291101713676...",
-    "[09:15:48] Noon Error: HTTP Error 502",
-    "[09:15:53] Noon Minutes: Searching barcode 6291101713676...",
-    "[09:16:01] Noon Minutes: Product not found.",
-    "[09:16:06] Talabat: Searching barcode 6291101713676...",
-    "[09:17:03] Talabat Success: RSP=None, List=None",
-    "[09:17:08] Careem Quik: Searching barcode 6291101713676...",
-    "[09:17:08] Careem Error: Session Token is missing. Skipping.",
-    "[09:17:08] Finished product: Product 3",
-    "[09:17:18] --------------------------------------------------",
-    "[09:17:18] Processing Product: Product 4 (Barcode: 6291101712006)",
-    "[09:17:18] Amazon: Searching barcode 6291101712006...",
-    "[09:17:30] Amazon Success: RSP=23.00, List=0.53",
-    "[09:17:35] Noon: Searching barcode 6291101712006...",
-    "[09:17:52] Noon Error: HTTP Error 502",
-    "[09:17:57] Noon Minutes: Searching barcode 6291101712006...",
-    "[09:18:05] Noon Minutes: Product not found.",
-    "[09:18:10] Talabat: Searching barcode 6291101712006...",
-    "[09:18:29] Talabat Success: RSP=None, List=None",
-    "[09:18:34] Careem Quik: Searching barcode 6291101712006...",
-    "[09:18:34] Careem Error: Session Token is missing. Skipping.",
-    "[09:18:34] Finished product: Product 4",
-    "[09:18:44] --------------------------------------------------",
-    "[09:18:44] Processing Product: Product 5 (Barcode: 5056141881935)",
-    "[09:18:44] Amazon: Searching barcode 5056141881935...",
-    "[09:18:58] Amazon Success: RSP=1.00, List=300.00",
-    "[09:19:03] Noon: Searching barcode 5056141881935...",
-    "[09:19:07] Noon Error: HTTP Error 403",
-    "[09:19:12] Noon Minutes: Searching barcode 5056141881935...",
-    "[09:19:15] Noon Minutes Error: HTTP Error 403",
-    "[09:19:20] Talabat: Searching barcode 5056141881935...",
-    "[09:19:24] Talabat Error: HTTP Error 403",
-    "[09:19:29] Careem Quik: Searching barcode 5056141881935...",
-    "[09:19:29] Careem Error: Session Token is missing. Skipping.",
-    "[09:19:29] Finished product: Product 5",
-    "[09:19:39] --------------------------------------------------",
-    "[09:19:39] Processing Product: Product 6 (Barcode: 6291101716608)",
-    "[09:19:39] Amazon: Searching barcode 6291101716608...",
-    "[09:19:43] Amazon Error: HTTP Error 403",
-    "[09:19:48] Noon: Searching barcode 6291101716608...",
-    "[09:19:51] Noon Error: HTTP Error 403",
-    "[09:19:56] Noon Minutes: Searching barcode 6291101716608...",
-    "[09:20:00] Noon Minutes Error: HTTP Error 403",
-    "[09:20:05] Talabat: Searching barcode 6291101716608...",
-    "[09:20:09] Talabat Error: HTTP Error 403",
-    "[09:20:14] Careem Quik: Searching barcode 6291101716608...",
-    "[09:20:14] Careem Error: Session Token is missing. Skipping.",
-    "[09:20:14] Finished product: Product 6",
-    "[09:20:24] --------------------------------------------------",
-    "[09:20:24] Processing Product: Product 7 (Barcode: 6291101710002)",
-    "[09:20:24] Amazon: Searching barcode 6291101710002...",
-    "[09:20:27] Amazon Error: HTTP Error 403",
-    "[09:20:32] Noon: Searching barcode 6291101710002...",
-    "[09:20:36] Noon Error: HTTP Error 403",
-    "[09:20:41] Noon Minutes: Searching barcode 6291101710002...",
-    "[09:20:45] Noon Minutes Error: HTTP Error 403",
-    "[09:20:50] Talabat: Searching barcode 6291101710002...",
-    "[09:20:53] Talabat Error: HTTP Error 403",
-    "[09:20:58] Careem Quik: Searching barcode 6291101710002...",
-    "[09:20:58] Careem Error: Session Token is missing. Skipping.",
-    "[09:20:58] Finished product: Product 7"
+    "[09:38:40] Starting Daily Price Comparison Scraper...",
+    "[09:38:40] Loaded 7 products to track.",
+    "[09:38:40] --------------------------------------------------",
+    "[09:38:40] Processing Product: Product 1 (Barcode: 5056141881928)",
+    "[09:38:40] Amazon: Searching barcode 5056141881928...",
+    "[09:38:44] Amazon Error: HTTP Error 403",
+    "[09:38:49] Noon: Searching barcode 5056141881928...",
+    "[09:38:52] Noon Error: HTTP Error 403",
+    "[09:38:57] Noon Minutes: Searching barcode 5056141881928...",
+    "[09:39:01] Noon Minutes Error: HTTP Error 403",
+    "[09:39:06] Talabat: Searching barcode 5056141881928...",
+    "[09:39:09] Talabat Error: HTTP Error 403",
+    "[09:39:14] Careem Quik: Searching barcode 5056141881928...",
+    "[09:39:14] Careem Error: Session Token is missing. Skipping.",
+    "[09:39:14] Finished product: Product 1",
+    "[09:39:24] --------------------------------------------------",
+    "[09:39:24] Processing Product: Product 2 (Barcode: 6291101714444)",
+    "[09:39:24] Amazon: Searching barcode 6291101714444...",
+    "[09:39:28] Amazon Error: HTTP Error 403",
+    "[09:39:33] Noon: Searching barcode 6291101714444...",
+    "[09:39:36] Noon Error: HTTP Error 403",
+    "[09:39:41] Noon Minutes: Searching barcode 6291101714444...",
+    "[09:39:45] Noon Minutes Error: HTTP Error 403",
+    "[09:39:50] Talabat: Searching barcode 6291101714444...",
+    "[09:39:54] Talabat Error: HTTP Error 403",
+    "[09:39:59] Careem Quik: Searching barcode 6291101714444...",
+    "[09:39:59] Careem Error: Session Token is missing. Skipping.",
+    "[09:39:59] Finished product: Product 2",
+    "[09:40:09] --------------------------------------------------",
+    "[09:40:09] Processing Product: Product 3 (Barcode: 6291101713676)",
+    "[09:40:09] Amazon: Searching barcode 6291101713676...",
+    "[09:40:12] Amazon Error: HTTP Error 403",
+    "[09:40:17] Noon: Searching barcode 6291101713676...",
+    "[09:40:21] Noon Error: HTTP Error 403",
+    "[09:40:26] Noon Minutes: Searching barcode 6291101713676...",
+    "[09:40:29] Noon Minutes Error: HTTP Error 403",
+    "[09:40:34] Talabat: Searching barcode 6291101713676...",
+    "[09:40:38] Talabat Error: HTTP Error 403",
+    "[09:40:43] Careem Quik: Searching barcode 6291101713676...",
+    "[09:40:43] Careem Error: Session Token is missing. Skipping.",
+    "[09:40:43] Finished product: Product 3",
+    "[09:40:53] --------------------------------------------------",
+    "[09:40:53] Processing Product: Product 4 (Barcode: 6291101712006)",
+    "[09:40:53] Amazon: Searching barcode 6291101712006...",
+    "[09:40:56] Amazon Error: HTTP Error 403",
+    "[09:41:01] Noon: Searching barcode 6291101712006...",
+    "[09:41:05] Noon Error: HTTP Error 403",
+    "[09:41:10] Noon Minutes: Searching barcode 6291101712006...",
+    "[09:41:14] Noon Minutes Error: HTTP Error 403",
+    "[09:41:19] Talabat: Searching barcode 6291101712006...",
+    "[09:41:22] Talabat Error: HTTP Error 403",
+    "[09:41:27] Careem Quik: Searching barcode 6291101712006...",
+    "[09:41:27] Careem Error: Session Token is missing. Skipping.",
+    "[09:41:27] Finished product: Product 4",
+    "[09:41:37] --------------------------------------------------",
+    "[09:41:37] Processing Product: Product 5 (Barcode: 5056141881935)",
+    "[09:41:37] Amazon: Searching barcode 5056141881935...",
+    "[09:41:41] Amazon Error: HTTP Error 403",
+    "[09:41:46] Noon: Searching barcode 5056141881935...",
+    "[09:41:49] Noon Error: HTTP Error 403",
+    "[09:41:54] Noon Minutes: Searching barcode 5056141881935...",
+    "[09:41:58] Noon Minutes Error: HTTP Error 403",
+    "[09:42:03] Talabat: Searching barcode 5056141881935...",
+    "[09:42:06] Talabat Error: HTTP Error 403",
+    "[09:42:11] Careem Quik: Searching barcode 5056141881935...",
+    "[09:42:11] Careem Error: Session Token is missing. Skipping.",
+    "[09:42:11] Finished product: Product 5",
+    "[09:42:21] --------------------------------------------------",
+    "[09:42:21] Processing Product: Product 6 (Barcode: 6291101716608)",
+    "[09:42:21] Amazon: Searching barcode 6291101716608...",
+    "[09:42:25] Amazon Error: HTTP Error 403",
+    "[09:42:30] Noon: Searching barcode 6291101716608...",
+    "[09:42:34] Noon Error: HTTP Error 403",
+    "[09:42:39] Noon Minutes: Searching barcode 6291101716608...",
+    "[09:42:42] Noon Minutes Error: HTTP Error 403",
+    "[09:42:47] Talabat: Searching barcode 6291101716608...",
+    "[09:42:51] Talabat Error: HTTP Error 403",
+    "[09:42:56] Careem Quik: Searching barcode 6291101716608...",
+    "[09:42:56] Careem Error: Session Token is missing. Skipping.",
+    "[09:42:56] Finished product: Product 6",
+    "[09:43:06] --------------------------------------------------",
+    "[09:43:06] Processing Product: Product 7 (Barcode: 6291101710002)",
+    "[09:43:06] Amazon: Searching barcode 6291101710002...",
+    "[09:43:09] Amazon Error: HTTP Error 403",
+    "[09:43:14] Noon: Searching barcode 6291101710002...",
+    "[09:43:18] Noon Error: HTTP Error 403",
+    "[09:43:23] Noon Minutes: Searching barcode 6291101710002...",
+    "[09:43:26] Noon Minutes Error: HTTP Error 403",
+    "[09:43:31] Talabat: Searching barcode 6291101710002...",
+    "[09:43:35] Talabat Error: HTTP Error 403",
+    "[09:43:40] Careem Quik: Searching barcode 6291101710002...",
+    "[09:43:40] Careem Error: Session Token is missing. Skipping.",
+    "[09:43:40] Finished product: Product 7"
   ],
   "products": [
     {
@@ -101,28 +101,28 @@
       "name": "Product 1",
       "prices": {
         "amazon": {
-          "rsp": "28.00",
+          "rsp": null,
           "list_price": null,
-          "url": "https://www.amazon.ae/HOTPACK-Bio-Degradable-Disposable-Garbage-Gallons/dp/B092BTLHZX/ref=sr_1_1_ae_f3_0o_yalla?dib=eyJ2IjoiMSJ9.Ouu9Gls9s58Xy4xWD8XIbg.yelHjPu_USxqySZ1fSS5awCelTy2_wu4-k3Wt1TJJwQ&dib_tag=se&keywords=5056141881928&qid=1790759464&sr=8-1",
-          "status": "Success"
+          "url": "https://www.amazon.ae/s?k=5056141881928",
+          "status": "HTTP Error 403"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.noon.com/uae-en/heavy-duty-small-dustbin-liners/ZDE94757182550F1CA421Z/p/?o=zde94757182550f1ca421z-1",
-          "status": "Not Found"
+          "url": "https://www.noon.com/uae-en/search/?q=5056141881928",
+          "status": "HTTP Error 403"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=5056141881928",
-          "status": "Not Stocked"
+          "status": "HTTP Error 403"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Not Found"
+          "url": "https://www.talabat.com/ae/en/search?q=5056141881928",
+          "status": "HTTP Error 403"
         },
         "careem": {
           "rsp": null,
@@ -137,28 +137,28 @@
       "name": "Product 2",
       "prices": {
         "amazon": {
-          "rsp": "31.00",
+          "rsp": null,
           "list_price": null,
-          "url": "https://www.amazon.ae/Hotpack-Garbage-Large-Gallon-110cm/dp/B07PDZSR8R/ref=sr_1_1_ae_f3_0o_yalla?dib=eyJ2IjoiMSJ9.3khIQ__h4sYbmwiR1UKYiQ.Lx6KsFT5EJuvjrv2_c7G_Ui_1NneayUxk8vxV2Sv2KA&dib_tag=se&keywords=6291101714444&qid=1790759577&sr=8-1",
-          "status": "Success"
+          "url": "https://www.amazon.ae/s?k=6291101714444",
+          "status": "HTTP Error 403"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.noon.com/uae-en/25-pieces-hotpack-coloured-plastic-plates-10-inch-multicolor/Z55C0E567D3663B4FBBF6Z/p/?o=z55c0e567d3663b4fbbf6z-1",
-          "status": "Not Found"
+          "url": "https://www.noon.com/uae-en/search/?q=6291101714444",
+          "status": "HTTP Error 403"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101714444",
-          "status": "Not Stocked"
+          "status": "HTTP Error 403"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Not Found"
+          "url": "https://www.talabat.com/ae/en/search?q=6291101714444",
+          "status": "HTTP Error 403"
         },
         "careem": {
           "rsp": null,
@@ -176,25 +176,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101713676",
-          "status": "Not Found"
+          "status": "HTTP Error 403"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101713676",
-          "status": "HTTP Error 502"
+          "status": "HTTP Error 403"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101713676",
-          "status": "Not Stocked"
+          "status": "HTTP Error 403"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Not Found"
+          "url": "https://www.talabat.com/ae/en/search?q=6291101713676",
+          "status": "HTTP Error 403"
         },
         "careem": {
           "rsp": null,
@@ -209,28 +209,28 @@
       "name": "Product 4",
       "prices": {
         "amazon": {
-          "rsp": "23.00",
-          "list_price": "0.53",
-          "url": "https://www.amazon.ae/Hotpack-Aluminium-Foil-200-Sq-Ft/dp/B07NF7QKJG/ref=sr_1_1_ae_f3_0o_yalla?dib=eyJ2IjoiMSJ9.N8A7f1JyumDsj4vydo6wFg.oiYZpn6qjVBJsyn5sDgOyuoFwN7n_J20uJ7xT43s2jk&dib_tag=se&keywords=6291101712006&qid=1790759840&sr=8-1",
-          "status": "Success"
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.amazon.ae/s?k=6291101712006",
+          "status": "HTTP Error 403"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101712006",
-          "status": "HTTP Error 502"
+          "status": "HTTP Error 403"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101712006",
-          "status": "Not Stocked"
+          "status": "HTTP Error 403"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
-          "url": "https://www.talabat.com/uae/contact-us",
-          "status": "Not Found"
+          "url": "https://www.talabat.com/ae/en/search?q=6291101712006",
+          "status": "HTTP Error 403"
         },
         "careem": {
           "rsp": null,
@@ -245,10 +245,10 @@
       "name": "Product 5",
       "prices": {
         "amazon": {
-          "rsp": "1.00",
-          "list_price": "300.00",
-          "url": "https://www.amazon.ae/Hotpack-Disposable-Bio-Degradable-Dustbin-45x55cm/dp/B092C3N25Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.bpByYicgXCeoAT8KSl2P-g.BlPwo5s-DAfSGHCHBNH3dTEFn3_OL6lQ8zXaE5jUMlM&dib_tag=se&keywords=5056141881935&qid=1790759928&sr=8-1",
-          "status": "Success"
+          "rsp": null,
+          "list_price": null,
+          "url": "https://www.amazon.ae/s?k=5056141881935",
+          "status": "HTTP Error 403"
         },
         "noon": {
           "rsp": null,
