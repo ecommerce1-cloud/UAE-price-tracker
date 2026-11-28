@@ -1,99 +1,99 @@
 {
-  "last_updated": "2026-11-27 11:43 AM Dubai Time",
+  "last_updated": "2026-11-28 11:16 AM Dubai Time",
   "log": [
-    "[11:38:16] Starting Daily Price Comparison Scraper...",
-    "[11:38:16] Loaded 7 products to track.",
-    "[11:38:16] --------------------------------------------------",
-    "[11:38:16] Processing Product: Product 1 (Barcode: 5056141881928)",
-    "[11:38:16] Amazon: Searching barcode 5056141881928...",
-    "[11:38:19] Amazon Error: HTTP Error 403",
-    "[11:38:24] Noon: Searching barcode 5056141881928...",
-    "[11:38:28] Noon Error: HTTP Error 403",
-    "[11:38:33] Noon Minutes: Searching barcode 5056141881928...",
-    "[11:38:36] Noon Minutes Error: HTTP Error 403",
-    "[11:38:41] Talabat: Searching barcode 5056141881928...",
-    "[11:38:45] Talabat Error: HTTP Error 403",
-    "[11:38:50] Careem Quik: Searching barcode 5056141881928...",
-    "[11:38:50] Careem Error: Session Token is missing. Skipping.",
-    "[11:38:50] Finished product: Product 1",
-    "[11:39:00] --------------------------------------------------",
-    "[11:39:00] Processing Product: Product 2 (Barcode: 6291101714444)",
-    "[11:39:00] Amazon: Searching barcode 6291101714444...",
-    "[11:39:03] Amazon Error: HTTP Error 403",
-    "[11:39:08] Noon: Searching barcode 6291101714444...",
-    "[11:39:12] Noon Error: HTTP Error 403",
-    "[11:39:17] Noon Minutes: Searching barcode 6291101714444...",
-    "[11:39:21] Noon Minutes Error: HTTP Error 403",
-    "[11:39:26] Talabat: Searching barcode 6291101714444...",
-    "[11:39:29] Talabat Error: HTTP Error 403",
-    "[11:39:34] Careem Quik: Searching barcode 6291101714444...",
-    "[11:39:34] Careem Error: Session Token is missing. Skipping.",
-    "[11:39:34] Finished product: Product 2",
-    "[11:39:44] --------------------------------------------------",
-    "[11:39:44] Processing Product: Product 3 (Barcode: 6291101713676)",
-    "[11:39:44] Amazon: Searching barcode 6291101713676...",
-    "[11:39:48] Amazon Error: HTTP Error 403",
-    "[11:39:53] Noon: Searching barcode 6291101713676...",
-    "[11:39:56] Noon Error: HTTP Error 403",
-    "[11:40:01] Noon Minutes: Searching barcode 6291101713676...",
-    "[11:40:05] Noon Minutes Error: HTTP Error 403",
-    "[11:40:10] Talabat: Searching barcode 6291101713676...",
-    "[11:40:13] Talabat Error: HTTP Error 403",
-    "[11:40:18] Careem Quik: Searching barcode 6291101713676...",
-    "[11:40:18] Careem Error: Session Token is missing. Skipping.",
-    "[11:40:18] Finished product: Product 3",
-    "[11:40:28] --------------------------------------------------",
-    "[11:40:28] Processing Product: Product 4 (Barcode: 6291101712006)",
-    "[11:40:28] Amazon: Searching barcode 6291101712006...",
-    "[11:40:32] Amazon Error: HTTP Error 403",
-    "[11:40:37] Noon: Searching barcode 6291101712006...",
-    "[11:40:41] Noon Error: HTTP Error 403",
-    "[11:40:46] Noon Minutes: Searching barcode 6291101712006...",
-    "[11:40:49] Noon Minutes Error: HTTP Error 403",
-    "[11:40:54] Talabat: Searching barcode 6291101712006...",
-    "[11:40:58] Talabat Error: HTTP Error 403",
-    "[11:41:03] Careem Quik: Searching barcode 6291101712006...",
-    "[11:41:03] Careem Error: Session Token is missing. Skipping.",
-    "[11:41:03] Finished product: Product 4",
-    "[11:41:13] --------------------------------------------------",
-    "[11:41:13] Processing Product: Product 5 (Barcode: 5056141881935)",
-    "[11:41:13] Amazon: Searching barcode 5056141881935...",
-    "[11:41:16] Amazon Error: HTTP Error 403",
-    "[11:41:21] Noon: Searching barcode 5056141881935...",
-    "[11:41:25] Noon Error: HTTP Error 403",
-    "[11:41:30] Noon Minutes: Searching barcode 5056141881935...",
-    "[11:41:34] Noon Minutes Error: HTTP Error 403",
-    "[11:41:39] Talabat: Searching barcode 5056141881935...",
-    "[11:41:42] Talabat Error: HTTP Error 403",
-    "[11:41:47] Careem Quik: Searching barcode 5056141881935...",
-    "[11:41:47] Careem Error: Session Token is missing. Skipping.",
-    "[11:41:47] Finished product: Product 5",
-    "[11:41:57] --------------------------------------------------",
-    "[11:41:57] Processing Product: Product 6 (Barcode: 6291101716608)",
-    "[11:41:57] Amazon: Searching barcode 6291101716608...",
-    "[11:42:01] Amazon Error: HTTP Error 403",
-    "[11:42:06] Noon: Searching barcode 6291101716608...",
-    "[11:42:09] Noon Error: HTTP Error 403",
-    "[11:42:14] Noon Minutes: Searching barcode 6291101716608...",
-    "[11:42:18] Noon Minutes Error: HTTP Error 403",
-    "[11:42:23] Talabat: Searching barcode 6291101716608...",
-    "[11:42:26] Talabat Error: HTTP Error 403",
-    "[11:42:31] Careem Quik: Searching barcode 6291101716608...",
-    "[11:42:31] Careem Error: Session Token is missing. Skipping.",
-    "[11:42:31] Finished product: Product 6",
-    "[11:42:41] --------------------------------------------------",
-    "[11:42:41] Processing Product: Product 7 (Barcode: 6291101710002)",
-    "[11:42:41] Amazon: Searching barcode 6291101710002...",
-    "[11:42:45] Amazon Error: HTTP Error 403",
-    "[11:42:50] Noon: Searching barcode 6291101710002...",
-    "[11:42:54] Noon Error: HTTP Error 403",
-    "[11:42:59] Noon Minutes: Searching barcode 6291101710002...",
-    "[11:43:02] Noon Minutes Error: HTTP Error 403",
-    "[11:43:07] Talabat: Searching barcode 6291101710002...",
-    "[11:43:11] Talabat Error: HTTP Error 403",
-    "[11:43:16] Careem Quik: Searching barcode 6291101710002...",
-    "[11:43:16] Careem Error: Session Token is missing. Skipping.",
-    "[11:43:16] Finished product: Product 7"
+    "[11:12:52] Starting Daily Price Comparison Scraper...",
+    "[11:12:52] Loaded 7 products to track.",
+    "[11:12:52] --------------------------------------------------",
+    "[11:12:52] Processing Product: Product 1 (Barcode: 5056141881928)",
+    "[11:12:52] Amazon: Searching barcode 5056141881928...",
+    "[11:12:52] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:12:57] Noon: Searching barcode 5056141881928...",
+    "[11:12:58] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:13:03] Noon Minutes: Searching barcode 5056141881928...",
+    "[11:13:03] Noon Minutes Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:13:08] Talabat: Searching barcode 5056141881928...",
+    "[11:13:08] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:13:13] Careem Quik: Searching barcode 5056141881928...",
+    "[11:13:13] Careem Error: Session Token is missing. Skipping.",
+    "[11:13:13] Finished product: Product 1",
+    "[11:13:23] --------------------------------------------------",
+    "[11:13:23] Processing Product: Product 2 (Barcode: 6291101714444)",
+    "[11:13:23] Amazon: Searching barcode 6291101714444...",
+    "[11:13:24] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:13:29] Noon: Searching barcode 6291101714444...",
+    "[11:13:29] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:13:34] Noon Minutes: Searching barcode 6291101714444...",
+    "[11:13:34] Noon Minutes Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:13:39] Talabat: Searching barcode 6291101714444...",
+    "[11:13:40] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:13:45] Careem Quik: Searching barcode 6291101714444...",
+    "[11:13:45] Careem Error: Session Token is missing. Skipping.",
+    "[11:13:45] Finished product: Product 2",
+    "[11:13:55] --------------------------------------------------",
+    "[11:13:55] Processing Product: Product 3 (Barcode: 6291101713676)",
+    "[11:13:55] Amazon: Searching barcode 6291101713676...",
+    "[11:13:55] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:14:00] Noon: Searching barcode 6291101713676...",
+    "[11:14:00] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:14:05] Noon Minutes: Searching barcode 6291101713676...",
+    "[11:14:06] Noon Minutes Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:14:11] Talabat: Searching barcode 6291101713676...",
+    "[11:14:11] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:14:16] Careem Quik: Searching barcode 6291101713676...",
+    "[11:14:16] Careem Error: Session Token is missing. Skipping.",
+    "[11:14:16] Finished product: Product 3",
+    "[11:14:26] --------------------------------------------------",
+    "[11:14:26] Processing Product: Product 4 (Barcode: 6291101712006)",
+    "[11:14:26] Amazon: Searching barcode 6291101712006...",
+    "[11:14:26] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:14:31] Noon: Searching barcode 6291101712006...",
+    "[11:14:32] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:14:37] Noon Minutes: Searching barcode 6291101712006...",
+    "[11:14:37] Noon Minutes Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:14:42] Talabat: Searching barcode 6291101712006...",
+    "[11:14:42] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:14:47] Careem Quik: Searching barcode 6291101712006...",
+    "[11:14:47] Careem Error: Session Token is missing. Skipping.",
+    "[11:14:47] Finished product: Product 4",
+    "[11:14:57] --------------------------------------------------",
+    "[11:14:57] Processing Product: Product 5 (Barcode: 5056141881935)",
+    "[11:14:57] Amazon: Searching barcode 5056141881935...",
+    "[11:14:58] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:15:03] Noon: Searching barcode 5056141881935...",
+    "[11:15:03] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:15:08] Noon Minutes: Searching barcode 5056141881935...",
+    "[11:15:08] Noon Minutes Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:15:13] Talabat: Searching barcode 5056141881935...",
+    "[11:15:14] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:15:19] Careem Quik: Searching barcode 5056141881935...",
+    "[11:15:19] Careem Error: Session Token is missing. Skipping.",
+    "[11:15:19] Finished product: Product 5",
+    "[11:15:29] --------------------------------------------------",
+    "[11:15:29] Processing Product: Product 6 (Barcode: 6291101716608)",
+    "[11:15:29] Amazon: Searching barcode 6291101716608...",
+    "[11:15:29] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:15:34] Noon: Searching barcode 6291101716608...",
+    "[11:15:34] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:15:39] Noon Minutes: Searching barcode 6291101716608...",
+    "[11:15:40] Noon Minutes Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:15:45] Talabat: Searching barcode 6291101716608...",
+    "[11:15:45] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:15:50] Careem Quik: Searching barcode 6291101716608...",
+    "[11:15:50] Careem Error: Session Token is missing. Skipping.",
+    "[11:15:50] Finished product: Product 6",
+    "[11:16:00] --------------------------------------------------",
+    "[11:16:00] Processing Product: Product 7 (Barcode: 6291101710002)",
+    "[11:16:00] Amazon: Searching barcode 6291101710002...",
+    "[11:16:00] Amazon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:16:05] Noon: Searching barcode 6291101710002...",
+    "[11:16:06] Noon Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:16:11] Noon Minutes: Searching barcode 6291101710002...",
+    "[11:16:11] Noon Minutes Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:16:16] Talabat: Searching barcode 6291101710002...",
+    "[11:16:16] Talabat Error: Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))",
+    "[11:16:21] Careem Quik: Searching barcode 6291101710002...",
+    "[11:16:21] Careem Error: Session Token is missing. Skipping.",
+    "[11:16:21] Finished product: Product 7"
   ],
   "products": [
     {
@@ -104,25 +104,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=5056141881928",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=5056141881928",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=5056141881928",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.talabat.com/ae/en/search?q=5056141881928",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D5056141881928&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "careem": {
           "rsp": null,
@@ -140,25 +140,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101714444",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101714444",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101714444",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.talabat.com/ae/en/search?q=6291101714444",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101714444&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "careem": {
           "rsp": null,
@@ -176,25 +176,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101713676",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101713676",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101713676",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.talabat.com/ae/en/search?q=6291101713676",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101713676&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "careem": {
           "rsp": null,
@@ -212,25 +212,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101712006",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101712006",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101712006",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.talabat.com/ae/en/search?q=6291101712006",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101712006&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "careem": {
           "rsp": null,
@@ -248,25 +248,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=5056141881935",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=5056141881935",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=5056141881935",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.talabat.com/ae/en/search?q=5056141881935",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D5056141881935&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "careem": {
           "rsp": null,
@@ -284,25 +284,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101716608",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101716608",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101716608",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.talabat.com/ae/en/search?q=6291101716608",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101716608&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "careem": {
           "rsp": null,
@@ -320,25 +320,25 @@
           "rsp": null,
           "list_price": null,
           "url": "https://www.amazon.ae/s?k=6291101710002",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.amazon.ae%2Fs%3Fk%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.noon.com/uae-en/search/?q=6291101710002",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.noon.com%2Fuae-en%2Fsearch%2F%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "noon_minutes": {
           "rsp": null,
           "list_price": null,
           "url": "https://minutes.noon.com/uae-en/search?q=6291101710002",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fminutes.noon.com%2Fuae-en%2Fsearch%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=noon_country%3Dae%3Bnoon_language%3Den%3Bnoon_geohash%3Dthrq1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "talabat": {
           "rsp": null,
           "list_price": null,
           "url": "https://www.talabat.com/ae/en/search?q=6291101710002",
-          "status": "HTTP Error 403"
+          "status": "Connection timeout: HTTPSConnectionPool(host='api.scrapingant.com', port=443): Max retries exceeded with url: /v2/general?url=https%3A%2F%2Fwww.talabat.com%2Fae%2Fen%2Fsearch%3Fq%3D6291101710002&x-api-key=16c053b74712483dbe984acc98d8814f&browser=true&proxy_type=residential&proxy_country=ae&cookies=latitude%3D25.2048%3Blongitude%3D55.2708%3BcityId%3D1%3BareaId%3D1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)')))"
         },
         "careem": {
           "rsp": null,
